@@ -1,0 +1,2001 @@
+Semaine,Mois,Catégorie,Marque,Prix,Promotion,Réduction_%,Jour_férié,Météo,Ventes_S-1,Stock_début,Ventes
+39,10,Boissons,Rani,1700,1,20,0,Nuageux,113,184,116
+40,10,Hygiène,Nivea,1500,1,25,0,Ensoleillé,63,90,75
+12,3,Électroménager,Hisense,155600,0,0,0,Ensoleillé,8,13,8
+52,1,Alimentaire,Patisen,5000,1,20,0,Ensoleillé,92,177,76
+9,3,Électroménager,Hisense,149200,0,0,0,Nuageux,7,11,9
+50,1,Boissons,Coca-Cola,1500,0,0,0,Ensoleillé,111,245,90
+34,9,Électroménager,Moulinex,188600,1,25,0,Ensoleillé,11,17,12
+24,6,Électroménager,Samsung,195100,0,0,0,Ensoleillé,12,15,11
+7,2,Alimentaire,Kirène,3500,0,0,0,Ensoleillé,85,168,75
+42,11,Électroménager,Samsung,47600,1,15,0,Ensoleillé,4,6,6
+24,6,Vêtements,Afriq Style,22100,1,10,0,Nuageux,49,104,42
+14,4,Hygiène,Dove,1000,0,0,1,Ensoleillé,75,152,98
+52,1,Vêtements,Dakar Mode,21100,0,0,0,Nuageux,22,44,19
+6,2,Boissons,Gazelle,2100,0,0,0,Pluvieux,90,202,89
+28,7,Alimentaire,Kirène,7000,0,0,0,Ensoleillé,91,169,122
+9,3,Vêtements,Kantamanto,16500,0,0,0,Très chaud,20,37,23
+41,11,Boissons,Kirène,2300,1,15,0,Ensoleillé,101,252,123
+49,1,Électroménager,LG,137800,0,0,0,Très chaud,4,5,5
+44,11,Électroménager,Moulinex,123500,0,0,0,Ensoleillé,6,10,5
+48,12,Alimentaire,Kirène,2600,0,0,0,Pluvieux,42,62,47
+26,7,Hygiène,Colgate,4000,1,15,0,Très chaud,113,234,97
+25,7,Électroménager,LG,55300,0,0,0,Ensoleillé,9,16,8
+49,1,Électroménager,Samsung,128700,1,20,0,Nuageux,6,14,6
+24,6,Alimentaire,Daffé,6100,1,15,0,Pluvieux,106,128,101
+25,7,Hygiène,Dove,3700,0,0,0,Nuageux,77,163,90
+33,9,Vêtements,Dakar Mode,29100,1,30,0,Pluvieux,33,62,37
+51,1,Vêtements,Afriq Style,13600,1,10,0,Nuageux,15,32,18
+19,5,Boissons,Youki,1700,1,0,0,Très chaud,189,295,192
+6,2,Hygiène,Dettol,1800,1,0,0,Nuageux,38,60,49
+32,8,Alimentaire,Patisen,1600,0,0,0,Pluvieux,99,127,82
+50,1,Électroménager,Brandt,35700,1,0,0,Ensoleillé,5,8,6
+50,1,Alimentaire,Nestlé,7100,0,0,0,Ensoleillé,54,92,69
+14,4,Boissons,Youki,1600,0,0,1,Nuageux,182,286,179
+22,6,Alimentaire,Daffé,6200,1,25,0,Nuageux,137,311,151
+44,11,Boissons,Rani,1600,0,0,0,Ensoleillé,118,252,111
+13,4,Électroménager,Moulinex,108600,0,0,0,Ensoleillé,13,19,12
+26,7,Vêtements,Kantamanto,4900,0,0,0,Ensoleillé,34,72,34
+40,10,Vêtements,Kente,16100,1,30,0,Nuageux,27,58,28
+3,1,Boissons,Coca-Cola,2100,0,0,1,Ensoleillé,107,193,116
+37,10,Électroménager,LG,123100,1,15,0,Ensoleillé,9,16,9
+1,1,Vêtements,Kente,7600,1,30,0,Pluvieux,26,50,24
+33,9,Alimentaire,Nestlé,4200,1,15,0,Ensoleillé,145,344,118
+44,11,Vêtements,Kente,23400,0,0,0,Ensoleillé,14,22,18
+26,7,Électroménager,LG,90900,0,0,0,Nuageux,9,14,9
+11,3,Vêtements,Dakar Mode,3700,1,0,0,Nuageux,31,66,30
+36,9,Électroménager,Samsung,190900,0,0,0,Très chaud,5,8,5
+13,4,Alimentaire,Patisen,6400,0,0,0,Nuageux,62,78,78
+41,11,Hygiène,Dettol,3300,1,30,0,Très chaud,49,99,48
+5,2,Hygiène,Dettol,3700,0,0,0,Très chaud,49,120,41
+14,4,Électroménager,Hisense,179700,1,10,0,Très chaud,10,22,10
+17,5,Vêtements,Kente,20500,0,0,0,Pluvieux,20,49,26
+48,12,Vêtements,Kantamanto,20700,1,30,0,Nuageux,21,44,23
+19,5,Vêtements,Dakar Mode,8300,1,5,0,Très chaud,24,43,32
+20,5,Boissons,Rani,1300,1,0,0,Nuageux,123,211,142
+49,1,Alimentaire,Kirène,6500,0,0,0,Très chaud,27,64,36
+37,10,Boissons,Youki,2100,1,5,0,Ensoleillé,105,166,123
+1,1,Vêtements,Afriq Style,22000,1,10,0,Très chaud,18,28,17
+28,7,Boissons,Coca-Cola,1000,0,0,0,Très chaud,201,423,162
+17,5,Alimentaire,Kirène,7600,1,15,0,Ensoleillé,154,368,148
+10,3,Électroménager,Brandt,193900,0,0,0,Ensoleillé,10,24,9
+49,1,Hygiène,Nivea,4900,0,0,0,Nuageux,40,86,40
+3,1,Vêtements,Kente,6600,1,5,0,Ensoleillé,15,22,18
+45,12,Vêtements,Dakar Mode,24900,1,5,0,Ensoleillé,20,37,18
+12,3,Alimentaire,Daffé,1800,0,0,0,Pluvieux,87,158,84
+23,6,Vêtements,Kente,15100,1,10,0,Très chaud,40,81,38
+15,4,Hygiène,Colgate,2800,0,0,0,Pluvieux,57,114,61
+51,1,Alimentaire,Nestlé,6300,0,0,0,Nuageux,62,114,50
+13,4,Hygiène,Colgate,4600,0,0,0,Nuageux,59,101,57
+16,4,Boissons,Gazelle,2200,0,0,0,Nuageux,124,281,145
+18,5,Boissons,Coca-Cola,1900,0,0,0,Nuageux,155,366,168
+49,1,Électroménager,Hisense,48600,0,0,0,Nuageux,3,3,4
+36,9,Alimentaire,Kirène,7400,0,0,0,Ensoleillé,82,150,88
+26,7,Boissons,Coca-Cola,800,0,0,0,Ensoleillé,218,474,186
+45,12,Électroménager,LG,113800,0,0,0,Ensoleillé,3,3,4
+17,5,Électroménager,Moulinex,29600,1,15,0,Nuageux,14,27,15
+22,6,Électroménager,Samsung,48200,0,0,0,Ensoleillé,9,18,10
+34,9,Hygiène,Colgate,1600,0,0,0,Très chaud,61,80,52
+30,8,Alimentaire,Patisen,1700,0,0,0,Très chaud,74,144,62
+11,3,Boissons,Kirène,2100,0,0,0,Nuageux,125,195,121
+44,11,Vêtements,Wax & Co,12300,1,15,0,Nuageux,19,25,22
+26,7,Vêtements,Afriq Style,9900,0,0,0,Ensoleillé,25,62,33
+13,4,Électroménager,Moulinex,33500,0,0,1,Ensoleillé,11,21,12
+35,9,Alimentaire,Nestlé,7900,1,5,0,Ensoleillé,81,104,97
+40,10,Boissons,Rani,1300,1,15,0,Ensoleillé,112,253,135
+14,4,Électroménager,Moulinex,173000,1,0,0,Nuageux,10,19,10
+15,4,Alimentaire,Kirène,3600,1,30,0,Ensoleillé,145,276,168
+6,2,Hygiène,Colgate,2800,1,10,0,Pluvieux,39,84,45
+4,1,Électroménager,LG,127900,1,0,1,Nuageux,4,7,5
+52,1,Vêtements,Kente,30800,0,0,0,Pluvieux,16,24,16
+5,2,Boissons,Youki,2300,0,0,0,Ensoleillé,113,177,118
+43,11,Boissons,Coca-Cola,2600,0,0,0,Ensoleillé,99,131,95
+48,12,Boissons,Rani,2300,1,0,0,Nuageux,60,129,63
+40,10,Alimentaire,Patisen,7000,0,0,0,Ensoleillé,78,127,67
+51,1,Vêtements,Kantamanto,12500,0,0,0,Ensoleillé,15,25,17
+25,7,Électroménager,Brandt,164600,0,0,0,Nuageux,7,16,10
+24,6,Alimentaire,Daffé,6300,0,0,0,Ensoleillé,152,237,134
+26,7,Boissons,Coca-Cola,1900,0,0,0,Très chaud,218,413,185
+40,10,Alimentaire,Kirène,3200,0,0,0,Pluvieux,36,85,43
+32,8,Vêtements,Kantamanto,23900,0,0,0,Nuageux,33,62,33
+49,1,Électroménager,Brandt,144600,0,0,0,Ensoleillé,5,7,5
+19,5,Électroménager,Moulinex,151900,0,0,0,Ensoleillé,9,13,13
+24,6,Hygiène,Nivea,1100,0,0,0,Pluvieux,68,139,82
+47,12,Électroménager,Brandt,59900,1,25,0,Ensoleillé,5,11,6
+7,2,Électroménager,Samsung,27100,1,20,0,Pluvieux,7,14,7
+1,1,Vêtements,Dakar Mode,22900,0,0,0,Nuageux,16,30,17
+34,9,Vêtements,Dakar Mode,25300,1,25,0,Pluvieux,20,38,25
+46,12,Alimentaire,Mama,4600,0,0,0,Nuageux,42,73,40
+26,7,Électroménager,Hisense,151600,1,25,0,Très chaud,10,19,13
+38,10,Électroménager,Samsung,178200,1,5,0,Pluvieux,5,7,5
+45,12,Alimentaire,Nestlé,1900,1,0,0,Ensoleillé,47,59,47
+43,11,Alimentaire,Patisen,6200,1,5,0,Ensoleillé,72,153,60
+40,10,Hygiène,Palmolive,4900,1,25,0,Ensoleillé,86,133,87
+47,12,Boissons,Youki,2200,1,0,0,Nuageux,65,84,81
+17,5,Alimentaire,Kirène,1500,1,5,0,Nuageux,84,109,107
+44,11,Boissons,Youki,600,1,10,0,Ensoleillé,110,144,109
+16,4,Hygiène,Nivea,3900,1,25,0,Très chaud,126,257,105
+26,7,Alimentaire,Nestlé,7100,0,0,0,Pluvieux,76,160,100
+9,3,Hygiène,Palmolive,1600,1,5,0,Pluvieux,43,77,56
+42,11,Alimentaire,Patisen,4100,0,0,0,Ensoleillé,55,70,50
+15,4,Alimentaire,Daffé,6900,1,20,0,Pluvieux,134,201,127
+35,9,Électroménager,LG,150300,0,0,0,Ensoleillé,7,8,9
+29,8,Alimentaire,Nestlé,5900,0,0,0,Pluvieux,98,215,79
+25,7,Boissons,Rani,2500,0,0,0,Ensoleillé,195,304,187
+46,12,Alimentaire,Kirène,2400,0,0,0,Pluvieux,34,59,44
+46,12,Hygiène,Nivea,1600,1,25,0,Ensoleillé,60,99,53
+5,2,Alimentaire,Kirène,4600,1,0,0,Ensoleillé,61,133,65
+17,5,Hygiène,Colgate,4800,1,20,0,Nuageux,103,241,130
+3,1,Hygiène,Dettol,2000,1,15,1,Ensoleillé,100,215,83
+34,9,Boissons,Youki,1600,0,0,0,Ensoleillé,112,258,143
+40,10,Vêtements,Kente,21500,1,5,0,Nuageux,22,47,19
+24,6,Hygiène,Dettol,2500,0,0,0,Ensoleillé,97,237,82
+51,1,Électroménager,LG,27700,0,0,0,Ensoleillé,6,13,6
+29,8,Boissons,Coca-Cola,1700,0,0,0,Nuageux,104,235,139
+48,12,Hygiène,Palmolive,2000,1,15,0,Très chaud,28,67,36
+32,8,Boissons,Coca-Cola,1200,0,0,0,Pluvieux,88,203,112
+14,4,Vêtements,Dakar Mode,14900,1,15,0,Ensoleillé,31,50,41
+15,4,Hygiène,Colgate,4400,0,0,0,Très chaud,66,151,74
+47,12,Boissons,Youki,2000,1,25,0,Ensoleillé,141,246,116
+20,5,Hygiène,Dove,4700,1,5,0,Ensoleillé,90,209,97
+16,4,Hygiène,Dettol,1700,1,20,0,Nuageux,96,117,95
+29,8,Boissons,Rani,2000,1,10,0,Nuageux,144,215,140
+22,6,Vêtements,Kente,5400,1,10,0,Très chaud,32,57,39
+30,8,Électroménager,Brandt,177800,1,15,0,Ensoleillé,9,22,11
+32,8,Boissons,Gazelle,1200,1,5,0,Nuageux,123,203,156
+33,9,Vêtements,Dakar Mode,27200,0,0,0,Ensoleillé,37,54,33
+44,11,Alimentaire,Patisen,1800,1,25,0,Nuageux,85,169,81
+41,11,Électroménager,Moulinex,127200,1,25,0,Pluvieux,6,11,6
+6,2,Électroménager,LG,58600,1,0,0,Ensoleillé,8,17,9
+12,3,Boissons,Rani,2000,1,5,0,Ensoleillé,203,358,172
+32,8,Hygiène,Dettol,4400,0,0,0,Ensoleillé,78,143,77
+28,7,Électroménager,Brandt,41300,0,0,0,Ensoleillé,14,30,13
+20,5,Vêtements,Dakar Mode,30300,0,0,0,Très chaud,22,51,29
+32,8,Alimentaire,Daffé,2700,1,15,0,Très chaud,92,219,88
+12,3,Hygiène,Nivea,1300,1,30,0,Ensoleillé,106,183,94
+30,8,Électroménager,Moulinex,113300,0,0,0,Ensoleillé,8,15,9
+39,10,Alimentaire,Daffé,1600,0,0,0,Nuageux,56,96,62
+35,9,Vêtements,Kente,13200,1,15,0,Ensoleillé,29,37,34
+14,4,Électroménager,Hisense,145500,1,0,0,Ensoleillé,11,23,11
+20,5,Boissons,Kirène,2400,0,0,0,Nuageux,170,394,175
+6,2,Boissons,Youki,1400,0,0,0,Très chaud,77,115,96
+26,7,Vêtements,Kantamanto,9200,0,0,0,Ensoleillé,41,74,44
+43,11,Électroménager,Samsung,114300,1,30,0,Nuageux,8,14,8
+44,11,Boissons,Rani,800,1,5,0,Pluvieux,76,106,69
+38,10,Vêtements,Wax & Co,18500,1,5,0,Ensoleillé,16,24,22
+26,7,Alimentaire,Daffé,2400,1,25,0,Très chaud,174,359,150
+41,11,Électroménager,Moulinex,128400,1,30,0,Très chaud,6,13,7
+9,3,Vêtements,Kente,22600,1,15,0,Nuageux,41,66,35
+45,12,Hygiène,Dove,2100,0,0,0,Ensoleillé,40,79,38
+15,4,Vêtements,Afriq Style,5800,0,0,0,Nuageux,29,41,28
+14,4,Électroménager,LG,102500,0,0,0,Nuageux,8,9,9
+26,7,Alimentaire,Daffé,6700,0,0,0,Nuageux,155,349,137
+50,1,Boissons,Youki,2900,0,0,0,Ensoleillé,99,234,93
+25,7,Boissons,Youki,500,0,0,0,Très chaud,131,200,132
+52,1,Hygiène,Nivea,900,1,5,0,Très chaud,42,78,37
+7,2,Boissons,Coca-Cola,1500,0,0,0,Pluvieux,72,176,83
+4,1,Alimentaire,Daffé,6900,0,0,1,Ensoleillé,67,125,63
+28,7,Alimentaire,Mama,6100,1,5,0,Ensoleillé,134,205,131
+4,1,Électroménager,Brandt,192500,0,0,0,Ensoleillé,5,8,5
+50,1,Vêtements,Kantamanto,19800,1,0,0,Ensoleillé,18,34,18
+10,3,Alimentaire,Nestlé,1900,0,0,0,Très chaud,57,119,70
+3,1,Électroménager,Hisense,56900,1,10,0,Ensoleillé,7,10,7
+46,12,Boissons,Rani,800,1,0,0,Ensoleillé,68,87,74
+49,1,Boissons,Coca-Cola,1400,1,10,0,Ensoleillé,105,188,122
+22,6,Électroménager,Moulinex,175200,0,0,0,Très chaud,10,16,11
+22,6,Boissons,Coca-Cola,2300,1,30,0,Ensoleillé,246,537,253
+17,5,Boissons,Gazelle,2100,0,0,0,Ensoleillé,221,270,179
+20,5,Boissons,Kirène,700,0,0,0,Nuageux,134,304,165
+38,10,Boissons,Coca-Cola,900,0,0,0,Ensoleillé,94,155,101
+9,3,Alimentaire,Patisen,6400,0,0,0,Ensoleillé,111,204,92
+22,6,Boissons,Rani,700,0,0,0,Très chaud,158,357,196
+35,9,Électroménager,Brandt,56700,0,0,0,Ensoleillé,7,11,7
+20,5,Électroménager,LG,161700,1,20,0,Pluvieux,13,23,11
+46,12,Vêtements,Dakar Mode,14100,1,25,1,Ensoleillé,29,46,31
+14,4,Boissons,Coca-Cola,2300,1,20,1,Nuageux,229,389,246
+5,2,Hygiène,Palmolive,4600,1,30,0,Nuageux,74,94,68
+4,1,Boissons,Kirène,2600,1,15,0,Nuageux,111,237,95
+37,10,Boissons,Rani,2700,0,0,0,Pluvieux,67,116,90
+27,7,Vêtements,Kente,26100,1,30,0,Nuageux,51,116,56
+45,12,Vêtements,Kente,5300,0,0,1,Ensoleillé,21,32,22
+26,7,Boissons,Coca-Cola,2000,0,0,0,Nuageux,157,313,136
+29,8,Électroménager,Hisense,142300,1,0,0,Très chaud,7,15,8
+28,7,Hygiène,Palmolive,1500,1,0,0,Nuageux,61,114,79
+19,5,Vêtements,Dakar Mode,34100,0,0,0,Ensoleillé,32,39,41
+20,5,Vêtements,Wax & Co,13100,0,0,0,Ensoleillé,44,90,39
+28,7,Hygiène,Colgate,3200,0,0,0,Nuageux,55,71,73
+28,7,Alimentaire,Kirène,3800,0,0,0,Ensoleillé,105,209,130
+14,4,Alimentaire,Kirène,5800,0,0,1,Très chaud,122,241,99
+32,8,Boissons,Coca-Cola,1000,0,0,1,Nuageux,159,268,200
+14,4,Boissons,Coca-Cola,2900,1,15,0,Pluvieux,150,347,130
+49,1,Boissons,Kirène,2600,1,20,0,Pluvieux,102,146,100
+32,8,Hygiène,Colgate,2100,1,20,0,Ensoleillé,122,223,99
+23,6,Boissons,Rani,2800,0,0,0,Nuageux,173,274,173
+19,5,Vêtements,Dakar Mode,12400,1,30,0,Ensoleillé,73,171,66
+4,1,Hygiène,Palmolive,4300,0,0,0,Pluvieux,35,73,34
+48,12,Vêtements,Kantamanto,21900,0,0,0,Pluvieux,15,32,14
+31,8,Hygiène,Nivea,1400,0,0,0,Pluvieux,79,155,67
+37,10,Vêtements,Kente,17500,1,15,0,Ensoleillé,27,50,23
+3,1,Vêtements,Wax & Co,32700,1,25,0,Nuageux,18,22,18
+19,5,Alimentaire,Patisen,6000,1,15,0,Pluvieux,130,230,129
+36,9,Alimentaire,Kirène,2600,0,0,0,Ensoleillé,109,239,95
+45,12,Alimentaire,Kirène,5700,1,30,1,Ensoleillé,100,196,97
+52,1,Vêtements,Wax & Co,5000,0,0,0,Nuageux,18,37,18
+45,12,Hygiène,Nivea,4700,0,0,0,Pluvieux,33,59,29
+5,2,Boissons,Coca-Cola,1100,1,5,0,Très chaud,111,134,98
+41,11,Boissons,Gazelle,600,0,0,0,Très chaud,59,74,67
+22,6,Boissons,Youki,2400,1,5,0,Ensoleillé,225,401,200
+13,4,Boissons,Kirène,2300,1,10,1,Très chaud,184,303,193
+15,4,Électroménager,Brandt,91700,0,0,0,Ensoleillé,10,22,9
+14,4,Alimentaire,Nestlé,3800,1,20,0,Ensoleillé,148,294,120
+41,11,Alimentaire,Mama,6200,0,0,0,Ensoleillé,86,165,74
+17,5,Vêtements,Kente,10500,0,0,0,Nuageux,35,52,34
+34,9,Alimentaire,Mama,6400,0,0,0,Nuageux,79,104,93
+16,4,Hygiène,Nivea,4500,0,0,1,Nuageux,68,151,88
+32,8,Vêtements,Dakar Mode,12300,0,0,0,Nuageux,28,65,34
+22,6,Boissons,Gazelle,1200,0,0,0,Nuageux,188,347,185
+6,2,Boissons,Kirène,2900,0,0,0,Pluvieux,98,143,80
+10,3,Boissons,Gazelle,1800,1,20,0,Ensoleillé,184,345,154
+20,5,Boissons,Coca-Cola,1300,1,10,0,Pluvieux,143,265,172
+28,7,Alimentaire,Nestlé,7500,1,20,0,Ensoleillé,173,388,146
+46,12,Alimentaire,Nestlé,3400,0,0,0,Ensoleillé,67,165,54
+27,7,Vêtements,Kantamanto,25600,0,0,0,Pluvieux,29,65,25
+50,1,Hygiène,Dettol,3700,1,0,0,Nuageux,48,78,42
+26,7,Vêtements,Dakar Mode,23200,0,0,0,Pluvieux,34,49,31
+11,3,Alimentaire,Kirène,3100,1,10,0,Nuageux,74,153,92
+2,1,Hygiène,Dettol,1800,0,0,0,Ensoleillé,42,88,40
+25,7,Vêtements,Afriq Style,12500,0,0,0,Nuageux,43,100,36
+39,10,Alimentaire,Patisen,3200,1,5,0,Nuageux,62,92,66
+8,2,Hygiène,Colgate,4700,0,0,0,Ensoleillé,43,53,45
+38,10,Alimentaire,Patisen,4400,1,0,0,Pluvieux,55,110,54
+19,5,Boissons,Rani,2300,0,0,0,Ensoleillé,139,269,181
+52,1,Alimentaire,Patisen,6400,0,0,0,Pluvieux,48,113,46
+16,4,Vêtements,Kantamanto,21800,0,0,0,Très chaud,34,63,29
+5,2,Boissons,Rani,2400,0,0,0,Pluvieux,90,115,76
+32,8,Alimentaire,Nestlé,1800,0,0,0,Ensoleillé,119,235,105
+26,7,Boissons,Rani,900,1,10,0,Ensoleillé,243,333,224
+4,1,Boissons,Rani,1000,1,5,0,Nuageux,120,185,97
+38,10,Alimentaire,Mama,3400,0,0,0,Nuageux,61,108,62
+45,12,Alimentaire,Patisen,7000,0,0,0,Nuageux,51,96,49
+49,1,Alimentaire,Patisen,5900,0,0,0,Pluvieux,42,101,47
+9,3,Vêtements,Kantamanto,7600,1,20,0,Ensoleillé,49,114,49
+13,4,Hygiène,Colgate,2100,1,20,0,Ensoleillé,130,258,118
+48,12,Alimentaire,Nestlé,7700,1,20,1,Nuageux,61,93,79
+23,6,Alimentaire,Daffé,7200,0,0,0,Ensoleillé,73,127,91
+20,5,Alimentaire,Kirène,1800,0,0,0,Ensoleillé,131,271,108
+41,11,Électroménager,LG,190600,1,5,0,Nuageux,5,10,5
+29,8,Hygiène,Palmolive,4800,0,0,0,Nuageux,71,89,69
+21,6,Alimentaire,Kirène,2900,1,15,0,Ensoleillé,118,224,150
+38,10,Électroménager,Moulinex,118500,1,10,0,Nuageux,8,17,8
+23,6,Hygiène,Palmolive,1900,1,0,0,Nuageux,76,95,71
+1,1,Alimentaire,Daffé,7400,0,0,0,Nuageux,47,60,52
+11,3,Alimentaire,Kirène,3300,1,5,0,Pluvieux,69,97,87
+50,1,Vêtements,Afriq Style,31200,1,15,1,Ensoleillé,42,73,35
+51,1,Électroménager,Brandt,145900,0,0,0,Très chaud,5,11,5
+49,1,Vêtements,Kente,23500,1,15,1,Très chaud,25,61,22
+41,11,Alimentaire,Nestlé,4200,0,0,0,Ensoleillé,62,131,54
+49,1,Vêtements,Dakar Mode,29100,1,30,0,Ensoleillé,32,79,31
+13,4,Électroménager,Brandt,169300,0,0,0,Pluvieux,9,13,9
+21,6,Boissons,Rani,1100,1,25,0,Ensoleillé,406,967,330
+11,3,Vêtements,Dakar Mode,13400,0,0,0,Pluvieux,18,42,21
+12,3,Alimentaire,Patisen,3600,0,0,0,Ensoleillé,94,172,84
+36,9,Hygiène,Dove,3200,0,0,0,Nuageux,93,230,79
+18,5,Boissons,Youki,2200,1,15,0,Pluvieux,166,414,168
+8,2,Boissons,Rani,2800,1,10,0,Ensoleillé,166,205,137
+3,1,Électroménager,LG,183000,0,0,0,Pluvieux,3,4,4
+30,8,Hygiène,Colgate,3100,1,30,1,Ensoleillé,136,164,174
+8,2,Vêtements,Dakar Mode,10200,1,0,0,Pluvieux,14,18,14
+9,3,Électroménager,Moulinex,33600,0,0,0,Ensoleillé,11,23,11
+45,12,Vêtements,Afriq Style,8200,1,5,1,Nuageux,25,52,22
+2,1,Électroménager,LG,35300,0,0,0,Ensoleillé,4,4,5
+39,10,Vêtements,Kantamanto,34600,1,20,0,Ensoleillé,24,41,28
+25,7,Alimentaire,Mama,7000,1,15,0,Nuageux,174,390,150
+22,6,Boissons,Rani,1900,1,15,0,Nuageux,167,229,188
+34,9,Hygiène,Dove,2000,0,0,0,Ensoleillé,57,130,73
+41,11,Vêtements,Dakar Mode,28400,0,0,0,Très chaud,13,17,12
+9,3,Hygiène,Palmolive,1600,0,0,0,Très chaud,44,92,56
+26,7,Vêtements,Kantamanto,15000,1,30,0,Ensoleillé,46,97,56
+13,4,Vêtements,Kantamanto,22900,1,0,0,Très chaud,27,67,26
+17,5,Vêtements,Dakar Mode,28500,0,0,0,Nuageux,22,36,26
+44,11,Alimentaire,Daffé,7000,1,5,0,Nuageux,63,146,68
+22,6,Alimentaire,Daffé,4100,1,20,0,Ensoleillé,126,257,155
+18,5,Hygiène,Dettol,1700,0,0,0,Pluvieux,62,104,70
+49,1,Électroménager,Hisense,87500,0,0,0,Ensoleillé,6,13,5
+17,5,Boissons,Coca-Cola,1100,0,0,0,Ensoleillé,172,310,229
+36,9,Électroménager,Moulinex,40100,1,15,0,Nuageux,9,13,11
+28,7,Électroménager,Moulinex,28800,1,5,0,Pluvieux,7,8,9
+25,7,Alimentaire,Mama,4000,0,0,0,Ensoleillé,90,143,121
+36,9,Vêtements,Dakar Mode,34300,1,10,0,Pluvieux,17,23,20
+40,10,Hygiène,Nivea,1200,1,5,0,Nuageux,64,116,57
+26,7,Boissons,Coca-Cola,1600,1,20,0,Nuageux,260,574,253
+17,5,Hygiène,Palmolive,4000,0,0,0,Nuageux,106,206,93
+11,3,Vêtements,Kente,25900,1,30,0,Ensoleillé,58,95,48
+47,12,Alimentaire,Mama,4300,0,0,1,Nuageux,61,83,63
+50,1,Hygiène,Palmolive,3500,0,0,0,Ensoleillé,46,87,47
+13,4,Hygiène,Nivea,3300,0,0,1,Pluvieux,86,191,70
+11,3,Boissons,Gazelle,2100,0,0,0,Nuageux,100,187,82
+12,3,Hygiène,Nivea,1600,1,5,0,Ensoleillé,82,176,71
+34,9,Alimentaire,Patisen,7400,0,0,0,Très chaud,65,138,66
+47,12,Alimentaire,Patisen,6600,1,15,0,Pluvieux,53,64,54
+10,3,Boissons,Rani,2700,0,0,0,Pluvieux,117,179,102
+27,7,Alimentaire,Nestlé,5400,1,5,0,Très chaud,72,179,88
+34,9,Hygiène,Dove,4500,0,0,0,Nuageux,41,52,54
+39,10,Hygiène,Palmolive,3500,1,20,0,Ensoleillé,75,124,73
+4,1,Alimentaire,Mama,7300,0,0,0,Ensoleillé,35,43,46
+17,5,Électroménager,Hisense,182600,1,20,0,Pluvieux,12,21,12
+12,3,Électroménager,Brandt,133900,0,0,0,Ensoleillé,11,25,10
+50,1,Boissons,Rani,700,0,0,0,Nuageux,55,111,73
+27,7,Boissons,Coca-Cola,700,1,0,0,Ensoleillé,171,359,187
+24,6,Électroménager,Moulinex,172700,1,30,0,Ensoleillé,17,40,19
+31,8,Vêtements,Kantamanto,20200,1,15,0,Ensoleillé,31,37,36
+47,12,Boissons,Gazelle,1300,0,0,0,Pluvieux,62,108,53
+50,1,Vêtements,Kantamanto,28700,1,25,1,Ensoleillé,35,48,35
+16,4,Hygiène,Palmolive,4000,0,0,0,Nuageux,57,114,65
+22,6,Alimentaire,Kirène,5400,1,30,0,Pluvieux,139,258,139
+36,9,Alimentaire,Kirène,6400,1,30,0,Pluvieux,104,249,107
+23,6,Électroménager,Hisense,126900,0,0,0,Ensoleillé,11,15,11
+17,5,Alimentaire,Daffé,3400,1,30,0,Nuageux,141,257,156
+36,9,Boissons,Coca-Cola,800,0,0,0,Pluvieux,87,184,101
+19,5,Alimentaire,Kirène,6700,0,0,0,Nuageux,125,290,113
+13,4,Hygiène,Colgate,3500,0,0,0,Pluvieux,61,137,68
+37,10,Hygiène,Palmolive,3800,1,5,0,Ensoleillé,55,79,67
+12,3,Vêtements,Afriq Style,29500,0,0,0,Nuageux,26,33,28
+33,9,Électroménager,Samsung,106900,1,10,0,Ensoleillé,8,19,9
+13,4,Boissons,Youki,600,1,15,0,Ensoleillé,163,305,209
+17,5,Électroménager,LG,120500,1,0,0,Pluvieux,9,15,9
+27,7,Alimentaire,Daffé,5100,0,0,0,Ensoleillé,83,170,93
+22,6,Électroménager,Brandt,122700,0,0,0,Ensoleillé,14,22,12
+20,5,Boissons,Youki,1000,0,0,0,Nuageux,176,340,188
+9,3,Alimentaire,Kirène,7000,0,0,0,Nuageux,105,255,89
+26,7,Alimentaire,Mama,6400,1,25,0,Très chaud,89,179,116
+45,12,Boissons,Kirène,500,1,15,0,Nuageux,119,176,107
+38,10,Alimentaire,Mama,1800,1,5,0,Ensoleillé,76,116,79
+29,8,Hygiène,Dove,3700,1,0,0,Nuageux,80,117,73
+39,10,Alimentaire,Nestlé,1600,0,0,0,Très chaud,43,55,57
+34,9,Hygiène,Nivea,3800,0,0,0,Nuageux,60,101,58
+10,3,Électroménager,Brandt,161300,1,20,0,Pluvieux,7,17,9
+8,2,Hygiène,Palmolive,3300,1,0,0,Ensoleillé,43,102,37
+37,10,Alimentaire,Mama,6100,1,5,0,Nuageux,73,129,76
+43,11,Vêtements,Dakar Mode,10600,1,25,0,Pluvieux,17,24,17
+22,6,Vêtements,Afriq Style,32400,0,0,0,Ensoleillé,32,55,43
+38,10,Vêtements,Kente,20000,1,15,0,Nuageux,26,58,22
+20,5,Hygiène,Colgate,4900,0,0,0,Très chaud,78,168,89
+52,1,Alimentaire,Nestlé,6900,0,0,0,Pluvieux,35,58,33
+39,10,Alimentaire,Kirène,2700,1,25,0,Nuageux,90,187,77
+17,5,Boissons,Youki,2900,0,0,0,Nuageux,133,276,161
+13,4,Boissons,Rani,1900,1,20,0,Pluvieux,111,135,141
+43,11,Électroménager,Brandt,114000,0,0,0,Nuageux,5,6,5
+42,11,Boissons,Youki,2700,0,0,0,Ensoleillé,86,167,77
+43,11,Vêtements,Kantamanto,18500,1,0,0,Nuageux,14,29,13
+1,1,Vêtements,Wax & Co,33000,0,0,0,Nuageux,14,18,14
+29,8,Électroménager,Samsung,86500,0,0,0,Nuageux,10,24,9
+1,1,Alimentaire,Kirène,7800,0,0,0,Nuageux,53,64,61
+28,7,Alimentaire,Kirène,2000,1,0,0,Nuageux,110,245,120
+14,4,Vêtements,Afriq Style,20000,1,20,0,Ensoleillé,40,62,54
+2,1,Boissons,Kirène,2300,1,15,0,Très chaud,76,141,78
+15,4,Boissons,Rani,1100,0,0,0,Ensoleillé,188,317,171
+52,1,Hygiène,Palmolive,3400,1,25,0,Nuageux,66,79,67
+34,9,Vêtements,Kantamanto,29500,1,5,0,Nuageux,21,45,20
+35,9,Vêtements,Afriq Style,27200,1,10,0,Ensoleillé,27,63,33
+29,8,Électroménager,Samsung,42300,1,5,0,Nuageux,8,17,9
+16,4,Hygiène,Dove,1700,1,25,0,Nuageux,91,118,109
+2,1,Électroménager,Moulinex,74500,1,5,0,Ensoleillé,7,15,7
+1,1,Vêtements,Dakar Mode,15100,1,20,0,Pluvieux,18,39,24
+15,4,Boissons,Gazelle,2800,0,0,0,Ensoleillé,156,195,152
+50,1,Alimentaire,Patisen,5000,0,0,0,Très chaud,56,128,49
+11,3,Alimentaire,Nestlé,5300,1,10,0,Très chaud,110,254,96
+45,12,Hygiène,Colgate,4500,0,0,0,Très chaud,34,78,29
+11,3,Boissons,Rani,600,0,0,0,Très chaud,76,141,94
+35,9,Hygiène,Nivea,3900,1,0,0,Ensoleillé,79,170,74
+2,1,Électroménager,Hisense,64800,1,10,0,Ensoleillé,7,12,7
+21,6,Boissons,Coca-Cola,2400,1,5,0,Pluvieux,132,167,127
+11,3,Vêtements,Wax & Co,22600,1,5,0,Ensoleillé,23,46,30
+25,7,Alimentaire,Mama,2400,0,0,0,Nuageux,121,173,116
+12,3,Électroménager,Samsung,135600,1,5,0,Ensoleillé,10,22,10
+20,5,Hygiène,Dettol,4000,1,20,0,Ensoleillé,145,226,140
+36,9,Électroménager,Brandt,49500,0,0,0,Nuageux,6,14,7
+20,5,Boissons,Youki,1400,1,30,0,Nuageux,238,533,254
+9,3,Hygiène,Colgate,3000,0,0,0,Nuageux,86,189,71
+46,12,Boissons,Gazelle,1800,1,0,0,Pluvieux,64,122,71
+34,9,Électroménager,Moulinex,142300,0,0,0,Nuageux,5,6,7
+3,1,Vêtements,Kantamanto,17100,0,0,1,Ensoleillé,17,34,21
+29,8,Boissons,Coca-Cola,500,0,0,0,Ensoleillé,127,315,162
+23,6,Électroménager,Brandt,159400,1,20,0,Nuageux,17,27,15
+24,6,Hygiène,Dettol,3900,0,0,0,Pluvieux,70,149,74
+34,9,Alimentaire,Nestlé,6700,1,10,0,Très chaud,90,131,84
+15,4,Vêtements,Kantamanto,6100,1,15,1,Nuageux,60,125,59
+7,2,Alimentaire,Patisen,5600,0,0,0,Ensoleillé,65,142,67
+40,10,Vêtements,Kente,28400,1,25,0,Nuageux,28,41,27
+39,10,Alimentaire,Nestlé,3100,0,0,0,Ensoleillé,109,154,93
+3,1,Boissons,Youki,1700,0,0,0,Nuageux,87,193,93
+32,8,Hygiène,Palmolive,1400,0,0,0,Nuageux,81,201,89
+41,11,Vêtements,Wax & Co,16900,0,0,0,Ensoleillé,21,29,19
+33,9,Alimentaire,Nestlé,4600,0,0,0,Très chaud,100,199,82
+26,7,Hygiène,Nivea,2300,1,20,0,Ensoleillé,84,209,81
+32,8,Électroménager,Hisense,189900,0,0,0,Pluvieux,5,10,7
+19,5,Boissons,Kirène,1000,0,0,0,Ensoleillé,155,218,133
+35,9,Hygiène,Palmolive,4500,0,0,0,Ensoleillé,87,117,79
+8,2,Hygiène,Dettol,2100,1,5,0,Ensoleillé,60,90,53
+29,8,Vêtements,Kente,27900,1,25,0,Ensoleillé,55,96,49
+8,2,Alimentaire,Kirène,5800,0,0,0,Ensoleillé,45,91,59
+17,5,Hygiène,Dettol,4800,1,20,0,Pluvieux,91,142,82
+43,11,Boissons,Coca-Cola,1700,0,0,0,Pluvieux,90,144,73
+35,9,Hygiène,Dettol,2700,0,0,0,Pluvieux,73,105,60
+16,4,Électroménager,Moulinex,45300,0,0,1,Ensoleillé,13,23,11
+34,9,Hygiène,Palmolive,3700,0,0,0,Nuageux,69,150,62
+10,3,Hygiène,Colgate,1800,0,0,0,Très chaud,61,92,52
+47,12,Électroménager,LG,102900,1,30,0,Ensoleillé,8,17,9
+3,1,Électroménager,Hisense,136500,1,15,1,Pluvieux,4,6,5
+52,1,Alimentaire,Nestlé,2400,0,0,0,Très chaud,44,94,48
+4,1,Hygiène,Palmolive,4800,1,30,0,Ensoleillé,56,85,71
+5,2,Électroménager,Hisense,190500,0,0,0,Ensoleillé,8,11,7
+9,3,Hygiène,Palmolive,1100,0,0,0,Nuageux,44,85,53
+28,7,Électroménager,Samsung,197600,1,20,0,Ensoleillé,13,17,16
+25,7,Boissons,Kirène,1900,0,0,0,Très chaud,137,324,126
+15,4,Alimentaire,Patisen,3500,1,25,0,Ensoleillé,134,175,157
+17,5,Vêtements,Afriq Style,9500,0,0,0,Ensoleillé,49,76,43
+35,9,Boissons,Rani,1400,0,0,0,Ensoleillé,145,350,138
+26,7,Boissons,Youki,1900,1,15,0,Nuageux,187,252,196
+19,5,Hygiène,Dettol,3200,0,0,0,Ensoleillé,92,158,90
+48,12,Boissons,Rani,2900,0,0,0,Ensoleillé,75,154,69
+48,12,Boissons,Youki,2200,1,25,0,Ensoleillé,90,191,90
+3,1,Hygiène,Dove,4300,0,0,0,Très chaud,38,65,36
+10,3,Électroménager,LG,63000,1,30,0,Pluvieux,12,16,11
+5,2,Électroménager,Hisense,142200,0,0,0,Pluvieux,2,3,3
+9,3,Vêtements,Wax & Co,28800,0,0,0,Pluvieux,21,47,21
+43,11,Alimentaire,Daffé,6500,0,0,0,Pluvieux,58,140,51
+20,5,Hygiène,Nivea,3600,1,0,0,Nuageux,74,154,69
+49,1,Hygiène,Dove,1600,0,0,0,Ensoleillé,43,60,45
+45,12,Alimentaire,Mama,2200,1,25,0,Ensoleillé,44,90,59
+52,1,Électroménager,LG,63300,0,0,0,Très chaud,4,9,4
+42,11,Électroménager,Brandt,128700,0,0,0,Ensoleillé,5,10,5
+16,4,Alimentaire,Daffé,6000,0,0,1,Nuageux,126,196,124
+27,7,Boissons,Gazelle,600,1,0,0,Ensoleillé,159,244,176
+8,2,Vêtements,Wax & Co,7800,0,0,0,Ensoleillé,16,26,18
+7,2,Vêtements,Dakar Mode,22500,1,20,0,Ensoleillé,30,56,32
+19,5,Vêtements,Wax & Co,6000,1,10,0,Très chaud,38,65,42
+32,8,Électroménager,Hisense,132400,0,0,0,Nuageux,7,14,9
+29,8,Boissons,Gazelle,1800,0,0,0,Ensoleillé,200,415,172
+4,1,Électroménager,LG,53100,0,0,0,Ensoleillé,4,6,4
+34,9,Vêtements,Wax & Co,9700,0,0,0,Très chaud,28,44,24
+32,8,Électroménager,Brandt,157200,0,0,0,Nuageux,12,17,11
+31,8,Hygiène,Dove,1600,0,0,0,Nuageux,69,100,70
+47,12,Boissons,Rani,1900,1,15,1,Ensoleillé,123,255,100
+45,12,Hygiène,Dettol,900,1,0,0,Pluvieux,19,34,26
+42,11,Alimentaire,Nestlé,2500,1,5,0,Ensoleillé,64,94,60
+20,5,Électroménager,Brandt,186000,1,5,0,Ensoleillé,8,9,10
+10,3,Alimentaire,Mama,7300,0,0,0,Nuageux,92,175,96
+24,6,Hygiène,Palmolive,2400,1,5,0,Ensoleillé,105,194,102
+10,3,Vêtements,Wax & Co,29300,0,0,0,Très chaud,23,31,25
+36,9,Vêtements,Dakar Mode,10100,0,0,0,Nuageux,27,56,25
+18,5,Hygiène,Nivea,2200,0,0,0,Nuageux,87,171,82
+31,8,Boissons,Kirène,2800,0,0,1,Ensoleillé,170,365,179
+14,4,Hygiène,Dove,2000,1,0,0,Ensoleillé,64,144,81
+13,4,Hygiène,Dettol,3100,1,20,1,Nuageux,135,204,143
+1,1,Boissons,Gazelle,2300,0,0,0,Très chaud,54,70,57
+16,4,Hygiène,Dettol,2300,0,0,0,Nuageux,82,161,70
+48,12,Hygiène,Dove,3500,1,15,0,Ensoleillé,43,75,38
+19,5,Hygiène,Nivea,900,0,0,0,Ensoleillé,87,200,83
+19,5,Boissons,Coca-Cola,1300,0,0,0,Nuageux,132,251,127
+20,5,Hygiène,Colgate,4800,0,0,0,Ensoleillé,93,144,92
+6,2,Boissons,Kirène,1700,1,10,0,Ensoleillé,144,186,121
+39,10,Vêtements,Dakar Mode,13100,1,25,0,Nuageux,23,37,31
+13,4,Alimentaire,Nestlé,5700,0,0,0,Nuageux,113,234,93
+11,3,Boissons,Kirène,2900,0,0,0,Nuageux,92,150,118
+36,9,Hygiène,Dettol,1000,0,0,0,Ensoleillé,82,191,68
+46,12,Alimentaire,Patisen,4100,1,20,0,Nuageux,81,113,66
+10,3,Alimentaire,Nestlé,4800,0,0,0,Ensoleillé,75,128,93
+34,9,Boissons,Kirène,1100,0,0,0,Ensoleillé,196,382,166
+24,6,Hygiène,Dettol,1500,0,0,0,Nuageux,115,197,96
+29,8,Hygiène,Colgate,3900,1,0,0,Ensoleillé,68,109,81
+2,1,Boissons,Gazelle,2700,0,0,0,Ensoleillé,55,89,51
+26,7,Électroménager,Hisense,162600,1,25,0,Nuageux,16,26,16
+21,6,Boissons,Rani,1600,1,20,0,Ensoleillé,252,427,236
+18,5,Hygiène,Colgate,2500,1,5,0,Ensoleillé,92,206,100
+22,6,Électroménager,Moulinex,86800,1,0,0,Ensoleillé,10,15,14
+31,8,Boissons,Gazelle,600,1,0,1,Pluvieux,144,329,162
+39,10,Électroménager,Hisense,76300,0,0,0,Ensoleillé,5,8,7
+6,2,Boissons,Rani,1400,0,0,0,Ensoleillé,77,147,102
+16,4,Vêtements,Afriq Style,22900,0,0,0,Ensoleillé,38,84,32
+34,9,Alimentaire,Kirène,7600,0,0,0,Ensoleillé,73,176,75
+25,7,Alimentaire,Daffé,3100,1,25,0,Ensoleillé,202,502,218
+47,12,Vêtements,Afriq Style,30600,0,0,0,Nuageux,16,29,17
+40,10,Boissons,Gazelle,1300,1,10,0,Très chaud,120,294,118
+39,10,Vêtements,Kente,10800,0,0,0,Ensoleillé,23,41,23
+12,3,Vêtements,Wax & Co,30700,0,0,0,Pluvieux,28,42,23
+46,12,Vêtements,Dakar Mode,12900,0,0,0,Très chaud,12,25,14
+28,7,Boissons,Youki,1800,1,10,0,Ensoleillé,164,400,196
+35,9,Électroménager,Brandt,44000,1,25,0,Nuageux,8,11,10
+22,6,Vêtements,Wax & Co,29300,0,0,0,Ensoleillé,42,66,46
+23,6,Hygiène,Colgate,2100,0,0,0,Nuageux,70,134,72
+45,12,Boissons,Coca-Cola,1800,0,0,0,Pluvieux,65,100,63
+9,3,Vêtements,Kente,19100,1,5,0,Nuageux,23,54,26
+28,7,Alimentaire,Daffé,3400,0,0,0,Ensoleillé,102,160,103
+38,10,Vêtements,Afriq Style,21000,0,0,0,Ensoleillé,15,31,20
+52,1,Vêtements,Kente,20400,1,15,0,Nuageux,17,33,21
+16,4,Électroménager,Hisense,81300,1,10,0,Ensoleillé,12,20,11
+25,7,Vêtements,Kente,10800,1,25,0,Nuageux,36,47,46
+42,11,Électroménager,Samsung,48200,1,15,0,Ensoleillé,5,8,5
+26,7,Boissons,Kirène,700,0,0,0,Nuageux,209,430,190
+15,4,Électroménager,LG,192500,1,5,0,Ensoleillé,10,12,11
+30,8,Vêtements,Afriq Style,8700,1,5,0,Nuageux,31,46,29
+9,3,Boissons,Coca-Cola,2200,0,0,0,Ensoleillé,160,255,132
+51,1,Vêtements,Kantamanto,3700,1,15,1,Ensoleillé,34,59,28
+28,7,Électroménager,Brandt,69100,0,0,0,Nuageux,8,12,9
+47,12,Alimentaire,Daffé,4500,1,30,0,Ensoleillé,94,191,88
+30,8,Hygiène,Dove,1900,0,0,1,Ensoleillé,130,207,110
+13,4,Hygiène,Palmolive,3300,0,0,0,Ensoleillé,85,138,73
+17,5,Hygiène,Palmolive,4200,0,0,0,Ensoleillé,75,182,92
+21,6,Hygiène,Colgate,2600,0,0,0,Pluvieux,85,211,74
+29,8,Boissons,Youki,800,1,20,1,Pluvieux,223,316,237
+11,3,Électroménager,Hisense,59900,0,0,0,Nuageux,6,13,7
+32,8,Hygiène,Dettol,1400,1,30,0,Très chaud,77,153,94
+14,4,Électroménager,Brandt,129700,1,30,0,Ensoleillé,17,26,14
+24,6,Vêtements,Dakar Mode,32400,0,0,0,Ensoleillé,32,45,39
+7,2,Vêtements,Kente,28400,0,0,0,Très chaud,12,15,14
+14,4,Alimentaire,Nestlé,5900,0,0,0,Ensoleillé,106,190,111
+2,1,Boissons,Rani,2400,0,0,0,Très chaud,76,182,79
+16,4,Hygiène,Dove,4000,0,0,0,Ensoleillé,69,93,83
+46,12,Alimentaire,Mama,3800,1,0,0,Ensoleillé,49,63,57
+32,8,Alimentaire,Daffé,3600,0,0,1,Très chaud,114,202,124
+39,10,Vêtements,Wax & Co,16200,1,30,0,Nuageux,22,41,29
+4,1,Hygiène,Palmolive,4300,0,0,0,Pluvieux,31,37,34
+12,3,Électroménager,Brandt,117800,0,0,0,Très chaud,4,9,6
+49,1,Alimentaire,Patisen,6500,1,30,0,Ensoleillé,106,228,92
+42,11,Électroménager,Samsung,169900,0,0,0,Pluvieux,4,6,4
+23,6,Alimentaire,Patisen,3400,0,0,0,Ensoleillé,98,239,125
+27,7,Vêtements,Kente,12700,0,0,0,Pluvieux,24,44,33
+1,1,Boissons,Coca-Cola,2200,1,0,0,Très chaud,84,204,71
+14,4,Hygiène,Palmolive,1800,0,0,0,Pluvieux,85,147,79
+1,1,Vêtements,Wax & Co,28700,1,25,0,Ensoleillé,19,27,25
+27,7,Alimentaire,Nestlé,3000,1,30,0,Nuageux,172,313,174
+35,9,Hygiène,Nivea,1300,0,0,0,Nuageux,71,170,65
+41,11,Alimentaire,Nestlé,7900,1,25,0,Ensoleillé,72,142,88
+36,9,Vêtements,Dakar Mode,26700,0,0,0,Très chaud,29,56,24
+32,8,Hygiène,Dettol,4700,0,0,0,Ensoleillé,78,183,97
+15,4,Alimentaire,Daffé,3900,1,10,1,Nuageux,103,143,131
+33,9,Alimentaire,Nestlé,6400,0,0,0,Nuageux,53,84,66
+17,5,Alimentaire,Nestlé,3900,1,5,0,Pluvieux,113,214,111
+18,5,Électroménager,Moulinex,58300,0,0,0,Ensoleillé,13,21,12
+18,5,Hygiène,Dettol,4000,0,0,0,Nuageux,105,183,87
+26,7,Boissons,Kirène,2800,1,10,0,Ensoleillé,226,438,188
+33,9,Boissons,Kirène,1100,0,0,0,Pluvieux,141,283,116
+46,12,Boissons,Rani,2300,0,0,1,Ensoleillé,86,168,92
+39,10,Boissons,Gazelle,1800,1,25,0,Nuageux,143,261,128
+3,1,Boissons,Gazelle,2000,0,0,0,Pluvieux,59,125,59
+24,6,Électroménager,Moulinex,182900,0,0,0,Ensoleillé,9,12,10
+2,1,Boissons,Gazelle,2200,1,30,0,Pluvieux,108,210,88
+34,9,Boissons,Rani,700,0,0,0,Pluvieux,112,221,97
+51,1,Hygiène,Dettol,1600,0,0,0,Ensoleillé,45,97,39
+37,10,Alimentaire,Patisen,7700,0,0,0,Nuageux,76,182,69
+35,9,Électroménager,Moulinex,25300,0,0,0,Nuageux,9,11,8
+3,1,Hygiène,Dove,1600,1,20,0,Pluvieux,37,50,46
+10,3,Électroménager,Hisense,151200,1,30,0,Ensoleillé,13,20,14
+36,9,Électroménager,Hisense,165300,0,0,0,Ensoleillé,9,14,10
+21,6,Boissons,Coca-Cola,900,1,30,0,Nuageux,213,459,234
+44,11,Boissons,Coca-Cola,1900,0,0,0,Nuageux,61,150,77
+6,2,Vêtements,Kantamanto,33000,0,0,0,Nuageux,27,58,24
+52,1,Boissons,Coca-Cola,2800,0,0,0,Ensoleillé,97,167,85
+40,10,Vêtements,Kantamanto,32900,0,0,0,Ensoleillé,20,40,22
+51,1,Électroménager,Hisense,193300,0,0,0,Ensoleillé,5,12,5
+26,7,Boissons,Kirène,1400,0,0,0,Nuageux,183,382,156
+30,8,Hygiène,Palmolive,2100,0,0,0,Ensoleillé,58,110,70
+26,7,Vêtements,Afriq Style,29300,0,0,0,Nuageux,25,54,32
+2,1,Hygiène,Dettol,3400,1,15,1,Nuageux,51,99,63
+9,3,Vêtements,Kente,8600,0,0,0,Pluvieux,20,32,23
+15,4,Électroménager,Moulinex,54000,0,0,0,Ensoleillé,8,19,8
+23,6,Vêtements,Kente,26000,0,0,0,Ensoleillé,42,61,36
+16,4,Vêtements,Dakar Mode,7700,1,20,0,Ensoleillé,27,50,36
+5,2,Boissons,Gazelle,500,0,0,0,Très chaud,86,208,77
+48,12,Électroménager,Brandt,67000,0,0,0,Ensoleillé,6,7,5
+15,4,Vêtements,Kente,6600,0,0,0,Très chaud,32,40,27
+36,9,Alimentaire,Daffé,5100,1,10,0,Nuageux,101,207,99
+34,9,Alimentaire,Daffé,6000,0,0,0,Ensoleillé,115,172,95
+34,9,Électroménager,Samsung,82100,0,0,0,Ensoleillé,7,13,9
+38,10,Boissons,Kirène,2600,0,0,0,Nuageux,73,153,98
+31,8,Hygiène,Colgate,4800,1,15,0,Nuageux,104,164,86
+30,8,Boissons,Youki,1600,1,30,0,Ensoleillé,224,480,294
+44,11,Électroménager,Hisense,69100,0,0,0,Très chaud,2,4,3
+30,8,Vêtements,Wax & Co,25700,0,0,0,Pluvieux,24,35,25
+44,11,Vêtements,Dakar Mode,27000,1,20,0,Ensoleillé,13,23,18
+10,3,Hygiène,Dettol,3500,0,0,0,Ensoleillé,76,154,62
+30,8,Vêtements,Kantamanto,19100,0,0,1,Ensoleillé,43,67,44
+50,1,Alimentaire,Nestlé,7400,1,25,0,Nuageux,73,124,74
+6,2,Alimentaire,Kirène,6600,0,0,0,Nuageux,35,85,40
+21,6,Électroménager,Samsung,96200,1,0,0,Très chaud,7,13,10
+41,11,Hygiène,Dove,1700,0,0,0,Ensoleillé,49,75,52
+49,1,Alimentaire,Kirène,4000,1,10,0,Nuageux,62,150,59
+9,3,Alimentaire,Patisen,4400,0,0,0,Nuageux,85,207,72
+7,2,Alimentaire,Daffé,6000,0,0,0,Ensoleillé,59,135,76
+29,8,Alimentaire,Daffé,1800,0,0,0,Ensoleillé,110,248,94
+23,6,Alimentaire,Kirène,4900,0,0,0,Ensoleillé,98,160,128
+35,9,Hygiène,Colgate,1800,1,20,0,Ensoleillé,53,108,71
+22,6,Électroménager,Brandt,146300,1,0,0,Nuageux,13,25,11
+34,9,Boissons,Coca-Cola,1500,0,0,0,Nuageux,115,220,110
+14,4,Boissons,Gazelle,2700,1,0,0,Ensoleillé,138,213,165
+48,12,Boissons,Rani,500,1,0,0,Ensoleillé,49,78,59
+12,3,Électroménager,LG,70600,0,0,0,Nuageux,8,13,7
+41,11,Hygiène,Dettol,2800,0,0,0,Nuageux,43,63,39
+44,11,Électroménager,Hisense,33100,0,0,0,Très chaud,4,5,4
+12,3,Vêtements,Kantamanto,16800,0,0,0,Pluvieux,18,39,21
+32,8,Électroménager,Samsung,199800,0,0,0,Pluvieux,6,10,7
+37,10,Hygiène,Dettol,4100,0,0,0,Pluvieux,40,99,38
+13,4,Boissons,Coca-Cola,1300,0,0,0,Ensoleillé,118,273,145
+12,3,Vêtements,Dakar Mode,31200,1,0,0,Ensoleillé,30,51,31
+16,4,Vêtements,Afriq Style,7300,0,0,0,Pluvieux,27,51,33
+52,1,Électroménager,Brandt,102500,0,0,0,Ensoleillé,4,7,5
+39,10,Alimentaire,Nestlé,3800,1,10,0,Nuageux,68,161,76
+20,5,Alimentaire,Daffé,5400,0,0,0,Pluvieux,87,197,100
+37,10,Hygiène,Palmolive,3500,1,30,0,Ensoleillé,60,83,75
+28,7,Électroménager,Hisense,183300,0,0,0,Très chaud,8,16,8
+30,8,Électroménager,Hisense,82200,0,0,1,Ensoleillé,11,26,12
+34,9,Vêtements,Wax & Co,17800,0,0,0,Pluvieux,21,52,23
+3,1,Vêtements,Dakar Mode,9200,1,10,0,Pluvieux,16,39,13
+27,7,Boissons,Youki,1600,1,0,0,Nuageux,146,317,129
+20,5,Hygiène,Colgate,4700,1,15,0,Nuageux,122,282,105
+34,9,Boissons,Rani,2500,0,0,0,Ensoleillé,154,381,128
+5,2,Électroménager,Hisense,170300,1,25,0,Ensoleillé,7,11,10
+15,4,Hygiène,Dove,4500,1,15,0,Très chaud,97,209,82
+26,7,Électroménager,Brandt,111300,1,10,0,Ensoleillé,13,26,14
+38,10,Vêtements,Afriq Style,32600,1,15,0,Nuageux,30,58,30
+30,8,Électroménager,LG,186500,1,15,0,Ensoleillé,11,21,15
+40,10,Vêtements,Dakar Mode,9500,1,25,0,Très chaud,24,58,20
+29,8,Hygiène,Dove,4000,1,20,0,Ensoleillé,103,140,112
+46,12,Électroménager,Samsung,122300,1,0,1,Nuageux,5,8,5
+2,1,Électroménager,LG,27200,1,15,0,Ensoleillé,6,9,6
+1,1,Vêtements,Dakar Mode,16000,1,30,0,Pluvieux,17,31,22
+24,6,Électroménager,Brandt,75700,0,0,0,Très chaud,6,12,8
+15,4,Alimentaire,Mama,7300,1,5,0,Ensoleillé,105,166,118
+42,11,Électroménager,Brandt,53900,0,0,0,Pluvieux,3,7,4
+2,1,Alimentaire,Daffé,5800,0,0,0,Nuageux,41,54,46
+25,7,Électroménager,Brandt,137200,0,0,0,Nuageux,11,25,10
+36,9,Boissons,Gazelle,2800,0,0,0,Ensoleillé,108,160,126
+44,11,Vêtements,Wax & Co,4600,0,0,0,Nuageux,11,19,14
+49,1,Vêtements,Wax & Co,25200,0,0,0,Nuageux,17,26,15
+41,11,Hygiène,Colgate,4400,0,0,0,Nuageux,35,61,37
+35,9,Vêtements,Kantamanto,11600,1,5,0,Très chaud,27,41,23
+29,8,Vêtements,Wax & Co,5500,0,0,0,Pluvieux,34,54,32
+50,1,Alimentaire,Kirène,4800,0,0,0,Ensoleillé,38,90,51
+20,5,Électroménager,Samsung,89800,0,0,0,Ensoleillé,12,29,12
+37,10,Boissons,Coca-Cola,2700,1,20,0,Très chaud,96,217,109
+30,8,Alimentaire,Mama,5900,1,25,0,Pluvieux,137,188,114
+23,6,Alimentaire,Mama,2900,0,0,0,Nuageux,107,170,123
+5,2,Électroménager,LG,138400,1,10,0,Ensoleillé,10,18,9
+6,2,Hygiène,Nivea,2300,0,0,0,Pluvieux,49,115,47
+49,1,Boissons,Coca-Cola,2300,1,5,1,Ensoleillé,85,198,113
+30,8,Électroménager,Brandt,78500,0,0,0,Pluvieux,8,9,9
+19,5,Hygiène,Palmolive,1500,0,0,0,Ensoleillé,114,247,102
+33,9,Hygiène,Nivea,1100,1,30,0,Nuageux,90,205,85
+26,7,Vêtements,Kente,14600,1,30,0,Ensoleillé,57,72,52
+26,7,Vêtements,Kantamanto,23100,0,0,0,Ensoleillé,48,57,40
+18,5,Hygiène,Dove,1800,1,0,0,Nuageux,66,157,76
+22,6,Électroménager,Moulinex,83400,1,10,0,Ensoleillé,13,23,13
+9,3,Boissons,Coca-Cola,1200,1,5,0,Ensoleillé,140,183,139
+6,2,Alimentaire,Patisen,3800,0,0,0,Ensoleillé,84,101,68
+29,8,Électroménager,Moulinex,82600,0,0,1,Ensoleillé,8,15,10
+11,3,Électroménager,Hisense,72500,0,0,0,Ensoleillé,5,10,7
+51,1,Électroménager,Hisense,144200,1,0,1,Ensoleillé,6,14,6
+38,10,Vêtements,Kantamanto,32500,0,0,0,Très chaud,20,47,21
+40,10,Électroménager,Moulinex,169200,1,15,0,Ensoleillé,8,19,8
+5,2,Alimentaire,Nestlé,5800,0,0,0,Nuageux,58,99,66
+51,1,Boissons,Gazelle,500,0,0,0,Pluvieux,49,61,65
+37,10,Vêtements,Wax & Co,28900,1,20,0,Nuageux,26,48,24
+32,8,Électroménager,Samsung,147800,1,0,0,Pluvieux,8,11,8
+51,1,Hygiène,Dettol,4400,0,0,0,Ensoleillé,55,101,45
+24,6,Alimentaire,Mama,1700,0,0,0,Ensoleillé,124,286,130
+39,10,Alimentaire,Daffé,2100,0,0,0,Ensoleillé,88,185,74
+49,1,Vêtements,Kantamanto,22700,1,0,0,Ensoleillé,13,20,18
+35,9,Électroménager,LG,112500,1,25,0,Nuageux,7,13,8
+30,8,Hygiène,Nivea,3300,0,0,0,Pluvieux,55,89,58
+17,5,Hygiène,Colgate,1700,1,5,0,Ensoleillé,113,180,93
+26,7,Vêtements,Kente,7300,0,0,0,Ensoleillé,31,59,35
+40,10,Boissons,Youki,2500,1,15,0,Ensoleillé,118,253,133
+9,3,Boissons,Rani,1300,0,0,0,Nuageux,89,190,100
+37,10,Vêtements,Wax & Co,30500,0,0,0,Pluvieux,15,32,17
+24,6,Hygiène,Nivea,3400,0,0,0,Nuageux,70,95,81
+24,6,Vêtements,Afriq Style,5000,0,0,0,Ensoleillé,18,38,24
+22,6,Hygiène,Nivea,3700,0,0,0,Très chaud,81,180,71
+36,9,Hygiène,Dettol,4300,0,0,0,Ensoleillé,52,63,67
+15,4,Boissons,Gazelle,700,1,30,0,Nuageux,260,643,264
+8,2,Vêtements,Afriq Style,14400,1,25,0,Nuageux,45,87,37
+12,3,Hygiène,Nivea,1700,0,0,0,Ensoleillé,49,106,64
+43,11,Hygiène,Nivea,4500,1,5,0,Pluvieux,30,61,30
+18,5,Alimentaire,Patisen,4300,0,0,0,Pluvieux,88,165,88
+3,1,Boissons,Gazelle,1700,0,0,0,Nuageux,65,98,69
+32,8,Hygiène,Colgate,3600,0,0,1,Ensoleillé,122,146,98
+22,6,Alimentaire,Mama,2000,0,0,0,Très chaud,89,195,101
+42,11,Boissons,Youki,2800,1,25,0,Ensoleillé,132,218,139
+5,2,Alimentaire,Kirène,2800,0,0,0,Ensoleillé,70,148,61
+28,7,Boissons,Rani,900,1,5,0,Ensoleillé,185,340,185
+5,2,Hygiène,Dettol,4600,0,0,0,Très chaud,38,64,40
+23,6,Vêtements,Wax & Co,25300,1,0,0,Pluvieux,27,38,26
+42,11,Alimentaire,Daffé,7200,0,0,0,Nuageux,37,63,49
+51,1,Hygiène,Dettol,1000,1,25,0,Ensoleillé,63,88,54
+41,11,Électroménager,Brandt,79700,0,0,0,Très chaud,4,6,4
+9,3,Électroménager,Hisense,172600,1,15,0,Nuageux,7,11,9
+47,12,Boissons,Rani,2700,0,0,0,Ensoleillé,64,138,71
+50,1,Vêtements,Dakar Mode,21100,1,15,0,Pluvieux,15,18,17
+48,12,Hygiène,Colgate,2100,0,0,0,Ensoleillé,47,78,41
+47,12,Boissons,Rani,2300,1,20,0,Ensoleillé,61,127,78
+51,1,Alimentaire,Nestlé,1500,0,0,0,Ensoleillé,53,123,49
+49,1,Alimentaire,Kirène,6600,0,0,0,Ensoleillé,51,69,65
+1,1,Boissons,Rani,1200,1,10,0,Nuageux,70,108,89
+11,3,Alimentaire,Mama,6700,1,30,0,Nuageux,108,209,141
+42,11,Électroménager,Samsung,84600,1,20,0,Nuageux,6,10,7
+29,8,Électroménager,Moulinex,117000,0,0,0,Nuageux,9,18,8
+9,3,Hygiène,Dove,2100,1,20,0,Pluvieux,57,86,75
+39,10,Hygiène,Nivea,2500,0,0,0,Nuageux,48,83,61
+27,7,Alimentaire,Kirène,2300,0,0,0,Nuageux,126,223,105
+29,8,Électroménager,Moulinex,80800,0,0,0,Ensoleillé,10,18,12
+41,11,Boissons,Coca-Cola,1000,0,0,0,Ensoleillé,79,173,66
+32,8,Électroménager,Moulinex,53000,0,0,0,Nuageux,6,12,8
+16,4,Alimentaire,Mama,4300,1,10,0,Nuageux,124,209,115
+29,8,Hygiène,Dettol,3500,0,0,1,Très chaud,78,137,74
+44,11,Électroménager,LG,124200,0,0,0,Ensoleillé,5,10,7
+38,10,Boissons,Coca-Cola,1500,1,25,0,Très chaud,109,245,124
+18,5,Vêtements,Dakar Mode,17500,0,0,0,Très chaud,37,75,32
+41,11,Électroménager,Moulinex,197900,0,0,0,Ensoleillé,6,10,6
+51,1,Hygiène,Palmolive,3500,0,0,0,Pluvieux,25,37,27
+36,9,Vêtements,Kente,12800,0,0,0,Ensoleillé,25,55,30
+30,8,Alimentaire,Mama,5300,0,0,1,Pluvieux,121,252,103
+39,10,Alimentaire,Daffé,6900,1,30,0,Pluvieux,89,193,84
+39,10,Alimentaire,Patisen,3000,0,0,0,Ensoleillé,50,124,65
+44,11,Boissons,Youki,1400,0,0,0,Pluvieux,71,168,70
+24,6,Vêtements,Wax & Co,16800,1,10,0,Nuageux,42,60,40
+49,1,Alimentaire,Nestlé,3000,0,0,0,Ensoleillé,65,120,64
+18,5,Électroménager,Moulinex,143900,0,0,0,Nuageux,11,23,10
+27,7,Alimentaire,Nestlé,4400,1,20,0,Nuageux,153,263,146
+22,6,Vêtements,Dakar Mode,4600,1,20,0,Nuageux,41,49,40
+14,4,Boissons,Kirène,600,1,25,0,Ensoleillé,166,321,178
+25,7,Hygiène,Dove,1900,1,5,0,Nuageux,61,88,79
+27,7,Alimentaire,Patisen,6300,1,0,0,Pluvieux,56,75,64
+28,7,Boissons,Rani,900,0,0,0,Nuageux,97,219,111
+36,9,Boissons,Youki,500,0,0,0,Nuageux,116,240,149
+50,1,Alimentaire,Kirène,5500,1,25,0,Nuageux,72,162,87
+11,3,Boissons,Coca-Cola,1000,0,0,0,Pluvieux,106,255,104
+41,11,Électroménager,Samsung,51700,1,20,0,Ensoleillé,10,18,9
+3,1,Hygiène,Nivea,1400,1,30,0,Ensoleillé,53,93,63
+41,11,Électroménager,Moulinex,163900,0,0,0,Ensoleillé,5,11,6
+21,6,Boissons,Rani,900,0,0,0,Ensoleillé,268,459,221
+1,1,Alimentaire,Daffé,5000,0,0,0,Nuageux,65,81,55
+38,10,Alimentaire,Kirène,2400,0,0,0,Nuageux,83,142,82
+42,11,Boissons,Rani,800,0,0,0,Pluvieux,82,158,72
+32,8,Électroménager,Brandt,25000,1,5,0,Nuageux,10,16,9
+9,3,Électroménager,Samsung,120800,1,20,0,Ensoleillé,9,15,10
+18,5,Boissons,Coca-Cola,700,0,0,0,Ensoleillé,167,253,152
+16,4,Vêtements,Kantamanto,3300,0,0,0,Ensoleillé,26,34,29
+33,9,Électroménager,Moulinex,97300,0,0,0,Très chaud,6,8,7
+4,1,Vêtements,Kantamanto,4900,0,0,0,Très chaud,15,37,16
+21,6,Alimentaire,Daffé,3100,1,0,0,Pluvieux,78,146,97
+23,6,Boissons,Kirène,1600,1,15,0,Ensoleillé,219,539,280
+29,8,Électroménager,Moulinex,85100,1,5,0,Nuageux,13,16,12
+12,3,Hygiène,Palmolive,1900,0,0,0,Très chaud,51,94,52
+4,1,Boissons,Rani,2400,1,0,0,Pluvieux,63,109,62
+10,3,Boissons,Kirène,800,0,0,0,Nuageux,111,141,110
+11,3,Boissons,Coca-Cola,1400,0,0,0,Ensoleillé,146,315,127
+10,3,Vêtements,Kente,9400,0,0,0,Ensoleillé,32,59,28
+1,1,Boissons,Gazelle,1500,1,10,0,Nuageux,87,214,87
+30,8,Électroménager,LG,188500,0,0,1,Très chaud,10,16,11
+10,3,Vêtements,Wax & Co,29700,0,0,0,Nuageux,19,46,23
+21,6,Électroménager,Samsung,121400,0,0,0,Ensoleillé,10,12,10
+26,7,Alimentaire,Patisen,4000,1,25,0,Ensoleillé,134,208,126
+40,10,Hygiène,Palmolive,4200,1,5,0,Ensoleillé,56,89,62
+9,3,Boissons,Rani,1100,0,0,0,Nuageux,98,226,107
+41,11,Électroménager,LG,126500,0,0,0,Ensoleillé,5,6,5
+14,4,Boissons,Rani,900,1,0,0,Très chaud,110,202,117
+31,8,Électroménager,LG,135700,0,0,0,Ensoleillé,6,9,8
+17,5,Hygiène,Dove,2600,0,0,0,Très chaud,67,99,79
+47,12,Hygiène,Dettol,4500,0,0,1,Pluvieux,43,100,37
+11,3,Vêtements,Kente,6100,0,0,0,Ensoleillé,31,71,28
+42,11,Vêtements,Dakar Mode,22200,0,0,0,Très chaud,12,22,11
+22,6,Vêtements,Wax & Co,17000,1,20,0,Ensoleillé,39,61,50
+24,6,Vêtements,Afriq Style,6300,0,0,0,Pluvieux,15,33,20
+16,4,Hygiène,Nivea,3000,1,10,0,Ensoleillé,96,231,78
+18,5,Boissons,Kirène,1900,0,0,0,Ensoleillé,156,298,164
+11,3,Vêtements,Kantamanto,29100,1,0,0,Nuageux,25,53,25
+25,7,Alimentaire,Mama,4900,1,20,0,Nuageux,172,336,142
+41,11,Électroménager,Brandt,65900,0,0,0,Nuageux,3,4,5
+49,1,Vêtements,Afriq Style,17300,0,0,0,Pluvieux,12,14,14
+41,11,Électroménager,LG,114100,0,0,0,Pluvieux,3,3,4
+51,1,Boissons,Kirène,1700,1,20,0,Nuageux,100,156,93
+20,5,Alimentaire,Nestlé,7300,0,0,0,Ensoleillé,115,237,113
+12,3,Vêtements,Kantamanto,24500,1,25,0,Très chaud,37,82,33
+17,5,Alimentaire,Patisen,3300,1,0,0,Très chaud,89,163,90
+50,1,Alimentaire,Mama,1500,1,5,0,Très chaud,71,97,63
+15,4,Hygiène,Palmolive,4700,0,0,0,Ensoleillé,78,156,81
+42,11,Vêtements,Kantamanto,11500,1,0,0,Nuageux,15,26,14
+2,1,Boissons,Youki,1100,1,10,0,Ensoleillé,91,119,116
+52,1,Boissons,Kirène,1800,0,0,0,Pluvieux,43,53,55
+10,3,Électroménager,Hisense,111300,1,20,0,Très chaud,9,13,10
+52,1,Vêtements,Dakar Mode,34500,0,0,1,Pluvieux,16,35,17
+51,1,Électroménager,LG,26200,1,25,0,Ensoleillé,8,12,7
+26,7,Électroménager,Brandt,170700,0,0,0,Très chaud,10,18,10
+31,8,Boissons,Coca-Cola,2000,1,30,0,Ensoleillé,257,514,265
+52,1,Hygiène,Dove,3800,1,30,0,Nuageux,47,100,46
+26,7,Électroménager,Moulinex,167300,0,0,0,Nuageux,10,13,10
+14,4,Boissons,Coca-Cola,2300,1,10,0,Ensoleillé,175,435,178
+18,5,Boissons,Gazelle,2500,0,0,0,Très chaud,121,194,149
+4,1,Électroménager,Samsung,192000,0,0,1,Ensoleillé,8,18,7
+4,1,Alimentaire,Nestlé,1700,1,5,0,Nuageux,73,95,62
+49,1,Alimentaire,Patisen,6300,0,0,0,Pluvieux,56,130,47
+45,12,Alimentaire,Daffé,6300,1,0,1,Ensoleillé,66,162,65
+13,4,Hygiène,Dettol,1100,1,15,0,Pluvieux,73,91,76
+9,3,Hygiène,Dettol,2900,0,0,0,Nuageux,49,106,59
+2,1,Boissons,Coca-Cola,2100,1,25,0,Pluvieux,118,281,101
+50,1,Hygiène,Palmolive,900,1,15,0,Très chaud,50,111,42
+11,3,Alimentaire,Nestlé,3200,1,25,0,Ensoleillé,122,288,126
+36,9,Électroménager,LG,25500,0,0,0,Nuageux,6,13,7
+1,1,Alimentaire,Kirène,6000,0,0,0,Nuageux,65,158,54
+1,1,Boissons,Rani,2200,0,0,1,Nuageux,83,205,101
+49,1,Hygiène,Dettol,3200,1,0,1,Ensoleillé,43,102,57
+3,1,Hygiène,Dove,1700,0,0,0,Nuageux,33,55,37
+38,10,Vêtements,Wax & Co,12200,0,0,0,Pluvieux,17,24,18
+51,1,Hygiène,Palmolive,2900,1,10,1,Nuageux,49,70,48
+35,9,Vêtements,Kente,30100,1,30,0,Très chaud,39,64,34
+17,5,Vêtements,Afriq Style,26400,0,0,0,Nuageux,30,66,28
+27,7,Vêtements,Kantamanto,27000,0,0,0,Nuageux,43,104,35
+22,6,Électroménager,Moulinex,122100,0,0,0,Ensoleillé,12,16,11
+9,3,Vêtements,Afriq Style,28700,0,0,0,Nuageux,18,28,19
+17,5,Hygiène,Dettol,2000,1,10,0,Ensoleillé,89,221,107
+23,6,Électroménager,LG,191100,0,0,0,Ensoleillé,11,24,15
+47,12,Boissons,Rani,900,0,0,0,Nuageux,55,70,63
+31,8,Boissons,Rani,2700,0,0,0,Très chaud,129,229,135
+12,3,Alimentaire,Nestlé,7100,1,10,0,Ensoleillé,73,95,88
+10,3,Vêtements,Dakar Mode,16800,1,15,0,Nuageux,25,51,28
+23,6,Électroménager,Samsung,109200,0,0,0,Ensoleillé,12,27,11
+3,1,Vêtements,Afriq Style,13500,0,0,1,Très chaud,19,46,17
+48,12,Hygiène,Nivea,1200,1,10,0,Pluvieux,41,85,42
+11,3,Alimentaire,Nestlé,7600,0,0,0,Très chaud,88,202,71
+49,1,Alimentaire,Patisen,7600,0,0,0,Pluvieux,48,95,45
+33,9,Alimentaire,Nestlé,7900,0,0,0,Pluvieux,46,95,47
+10,3,Alimentaire,Nestlé,2900,0,0,0,Ensoleillé,101,131,91
+45,12,Vêtements,Kantamanto,22400,0,0,0,Nuageux,13,21,14
+30,8,Boissons,Coca-Cola,2100,0,0,1,Pluvieux,131,271,154
+52,1,Boissons,Coca-Cola,1400,0,0,0,Ensoleillé,88,169,74
+8,2,Boissons,Rani,2200,0,0,0,Ensoleillé,122,276,116
+52,1,Électroménager,Moulinex,62600,1,10,0,Pluvieux,6,13,5
+34,9,Alimentaire,Mama,6000,1,5,0,Ensoleillé,76,102,97
+47,12,Hygiène,Dove,1200,0,0,1,Ensoleillé,45,105,51
+19,5,Boissons,Coca-Cola,2200,0,0,0,Pluvieux,125,284,143
+3,1,Hygiène,Palmolive,1700,1,20,0,Nuageux,63,77,55
+37,10,Alimentaire,Nestlé,6800,0,0,0,Pluvieux,39,83,44
+34,9,Hygiène,Dettol,3800,1,0,0,Pluvieux,73,154,61
+48,12,Hygiène,Nivea,4100,1,10,0,Nuageux,43,92,45
+33,9,Alimentaire,Daffé,7400,1,10,0,Pluvieux,64,137,75
+40,10,Hygiène,Palmolive,1400,1,0,0,Très chaud,57,131,49
+16,4,Alimentaire,Patisen,3900,0,0,0,Ensoleillé,91,197,101
+27,7,Alimentaire,Nestlé,5400,1,15,0,Ensoleillé,132,246,121
+50,1,Boissons,Kirène,900,0,0,1,Nuageux,116,265,98
+3,1,Électroménager,Hisense,128300,0,0,1,Nuageux,5,8,6
+37,10,Vêtements,Kantamanto,31300,0,0,0,Nuageux,16,37,22
+43,11,Vêtements,Afriq Style,4700,1,15,0,Ensoleillé,26,36,24
+7,2,Vêtements,Kente,34800,0,0,0,Nuageux,21,29,19
+47,12,Hygiène,Palmolive,1600,0,0,0,Nuageux,36,55,41
+40,10,Hygiène,Colgate,4300,1,30,0,Nuageux,84,134,75
+38,10,Alimentaire,Nestlé,1800,1,30,0,Ensoleillé,108,261,104
+41,11,Hygiène,Colgate,2100,1,15,0,Ensoleillé,39,75,51
+40,10,Boissons,Gazelle,2800,1,15,0,Nuageux,95,125,126
+13,4,Boissons,Coca-Cola,1100,0,0,1,Nuageux,146,252,188
+1,1,Vêtements,Wax & Co,17800,0,0,0,Pluvieux,11,24,12
+22,6,Boissons,Youki,1600,1,30,0,Nuageux,252,356,240
+26,7,Hygiène,Palmolive,2700,0,0,0,Ensoleillé,68,163,91
+36,9,Alimentaire,Daffé,6700,0,0,0,Ensoleillé,84,197,96
+6,2,Électroménager,Moulinex,58300,1,20,0,Ensoleillé,8,16,8
+17,5,Électroménager,Brandt,116900,1,25,0,Nuageux,16,23,14
+10,3,Hygiène,Nivea,1400,0,0,0,Nuageux,49,114,65
+47,12,Hygiène,Nivea,1500,0,0,0,Très chaud,28,38,34
+6,2,Alimentaire,Daffé,1900,0,0,0,Ensoleillé,88,141,71
+12,3,Vêtements,Kente,25100,1,25,0,Nuageux,32,63,34
+18,5,Alimentaire,Kirène,5100,0,0,0,Nuageux,122,250,115
+43,11,Hygiène,Palmolive,2500,1,25,0,Nuageux,48,70,61
+50,1,Boissons,Rani,1200,1,10,0,Nuageux,66,153,71
+35,9,Électroménager,Hisense,153500,0,0,0,Pluvieux,6,8,7
+36,9,Alimentaire,Mama,1700,0,0,0,Pluvieux,71,97,71
+42,11,Vêtements,Kantamanto,30100,0,0,0,Ensoleillé,17,24,14
+18,5,Boissons,Kirène,600,1,10,0,Pluvieux,165,329,181
+15,4,Vêtements,Wax & Co,21700,0,0,0,Ensoleillé,32,75,32
+31,8,Vêtements,Afriq Style,13600,0,0,0,Nuageux,27,61,27
+27,7,Hygiène,Dettol,3300,1,20,0,Très chaud,77,124,81
+19,5,Vêtements,Dakar Mode,30300,1,0,0,Pluvieux,17,38,22
+38,10,Hygiène,Colgate,2300,0,0,0,Ensoleillé,46,62,57
+52,1,Alimentaire,Daffé,2800,0,0,1,Très chaud,44,101,50
+27,7,Vêtements,Kantamanto,28000,1,20,0,Ensoleillé,40,99,44
+15,4,Électroménager,Samsung,29000,0,0,0,Ensoleillé,10,21,10
+19,5,Vêtements,Wax & Co,5700,0,0,0,Ensoleillé,47,112,41
+31,8,Boissons,Youki,1200,1,15,0,Ensoleillé,213,421,217
+5,2,Vêtements,Kente,9500,1,20,0,Très chaud,25,46,21
+49,1,Alimentaire,Kirène,1700,1,30,0,Nuageux,94,167,84
+32,8,Boissons,Coca-Cola,2800,1,10,0,Nuageux,214,426,178
+50,1,Alimentaire,Mama,4000,1,10,0,Très chaud,40,85,50
+42,11,Hygiène,Nivea,1000,1,0,0,Ensoleillé,34,70,44
+49,1,Vêtements,Dakar Mode,5700,0,0,0,Ensoleillé,18,27,16
+44,11,Vêtements,Wax & Co,26200,0,0,0,Ensoleillé,16,23,15
+20,5,Vêtements,Kente,33100,1,10,0,Ensoleillé,58,88,55
+29,8,Alimentaire,Nestlé,1900,1,30,0,Nuageux,178,419,146
+51,1,Boissons,Kirène,500,1,30,1,Pluvieux,96,131,118
+25,7,Alimentaire,Daffé,5400,1,10,0,Ensoleillé,140,282,137
+52,1,Boissons,Youki,2400,0,0,0,Ensoleillé,67,130,69
+34,9,Hygiène,Palmolive,1500,0,0,0,Ensoleillé,76,143,69
+42,11,Vêtements,Kantamanto,4700,0,0,0,Pluvieux,11,25,10
+36,9,Hygiène,Dove,4700,1,5,0,Ensoleillé,57,109,66
+26,7,Hygiène,Nivea,1500,0,0,0,Ensoleillé,71,139,74
+43,11,Électroménager,LG,128200,1,5,0,Ensoleillé,7,12,7
+16,4,Hygiène,Palmolive,1200,0,0,0,Pluvieux,54,122,60
+25,7,Électroménager,Hisense,111600,0,0,0,Nuageux,11,21,10
+5,2,Vêtements,Dakar Mode,16300,0,0,0,Ensoleillé,24,50,23
+27,7,Électroménager,LG,141300,1,10,0,Ensoleillé,12,19,16
+47,12,Alimentaire,Patisen,4300,1,15,1,Très chaud,82,117,72
+10,3,Électroménager,Moulinex,177100,0,0,0,Pluvieux,5,8,6
+31,8,Hygiène,Colgate,3100,0,0,0,Pluvieux,40,63,41
+6,2,Alimentaire,Kirène,2000,0,0,0,Ensoleillé,50,74,67
+10,3,Boissons,Kirène,1100,0,0,0,Très chaud,118,197,117
+6,2,Alimentaire,Mama,2700,0,0,0,Ensoleillé,71,138,80
+11,3,Hygiène,Colgate,2800,0,0,0,Ensoleillé,63,111,56
+1,1,Alimentaire,Mama,3300,0,0,0,Pluvieux,41,76,44
+48,12,Hygiène,Palmolive,1000,1,20,0,Ensoleillé,40,94,51
+1,1,Électroménager,Brandt,63100,1,10,0,Ensoleillé,7,9,7
+32,8,Vêtements,Afriq Style,32600,1,15,1,Ensoleillé,45,92,50
+2,1,Vêtements,Kente,24300,0,0,0,Très chaud,14,21,12
+40,10,Alimentaire,Nestlé,7800,0,0,0,Très chaud,52,84,69
+10,3,Boissons,Gazelle,1700,1,25,0,Pluvieux,152,310,128
+10,3,Hygiène,Dove,3400,1,5,0,Ensoleillé,87,203,71
+39,10,Électroménager,Brandt,53800,0,0,0,Très chaud,5,8,6
+36,9,Boissons,Rani,500,1,15,0,Pluvieux,164,345,134
+50,1,Alimentaire,Nestlé,3300,0,0,0,Ensoleillé,66,164,59
+16,4,Hygiène,Colgate,1100,0,0,0,Ensoleillé,72,123,69
+23,6,Hygiène,Dove,3400,1,10,0,Ensoleillé,104,221,102
+19,5,Vêtements,Dakar Mode,27400,1,30,0,Ensoleillé,41,72,49
+45,12,Électroménager,LG,128100,0,0,0,Nuageux,5,9,5
+27,7,Électroménager,Hisense,48000,1,30,0,Ensoleillé,16,39,17
+52,1,Alimentaire,Mama,1700,1,25,0,Pluvieux,101,231,81
+16,4,Boissons,Rani,2700,1,15,0,Pluvieux,118,158,112
+1,1,Vêtements,Dakar Mode,22400,0,0,0,Nuageux,12,23,14
+8,2,Hygiène,Palmolive,4400,0,0,0,Nuageux,52,79,45
+28,7,Boissons,Gazelle,1700,0,0,0,Nuageux,110,247,125
+5,2,Vêtements,Wax & Co,21800,1,5,0,Ensoleillé,30,69,26
+37,10,Vêtements,Wax & Co,17200,0,0,0,Nuageux,25,58,21
+8,2,Hygiène,Dove,2900,0,0,0,Nuageux,55,130,52
+6,2,Hygiène,Palmolive,3500,0,0,0,Très chaud,33,64,39
+8,2,Alimentaire,Daffé,7300,0,0,0,Ensoleillé,74,153,67
+15,4,Hygiène,Nivea,3400,1,0,0,Nuageux,55,130,62
+49,1,Hygiène,Nivea,2200,1,30,0,Ensoleillé,73,118,60
+23,6,Vêtements,Kantamanto,8800,1,10,0,Très chaud,36,88,35
+33,9,Boissons,Coca-Cola,500,0,0,0,Très chaud,109,226,99
+22,6,Alimentaire,Mama,3500,0,0,0,Ensoleillé,103,165,108
+27,7,Boissons,Rani,900,0,0,0,Ensoleillé,204,280,177
+40,10,Vêtements,Kente,34100,0,0,0,Très chaud,15,24,18
+44,11,Hygiène,Palmolive,3500,1,25,0,Ensoleillé,66,157,63
+17,5,Vêtements,Afriq Style,34900,0,0,0,Pluvieux,22,36,26
+13,4,Hygiène,Dettol,1300,1,20,0,Nuageux,51,90,67
+4,1,Vêtements,Kente,12700,1,30,1,Nuageux,29,39,32
+4,1,Vêtements,Dakar Mode,5500,1,15,0,Pluvieux,21,36,20
+38,10,Boissons,Gazelle,1700,0,0,0,Très chaud,85,146,89
+44,11,Électroménager,Moulinex,169800,1,20,0,Ensoleillé,8,16,7
+52,1,Hygiène,Colgate,4700,1,20,0,Ensoleillé,48,69,58
+46,12,Hygiène,Palmolive,2500,1,5,0,Ensoleillé,39,54,46
+3,1,Alimentaire,Daffé,1700,0,0,0,Ensoleillé,63,100,62
+28,7,Hygiène,Dettol,3900,1,10,0,Très chaud,72,120,92
+1,1,Hygiène,Palmolive,4100,1,0,0,Nuageux,49,85,42
+1,1,Électroménager,LG,115000,0,0,0,Pluvieux,3,6,3
+1,1,Boissons,Youki,700,0,0,0,Ensoleillé,82,128,70
+19,5,Électroménager,Hisense,64300,0,0,0,Très chaud,11,21,10
+19,5,Électroménager,Brandt,50200,1,5,0,Pluvieux,7,13,8
+34,9,Vêtements,Kantamanto,30100,0,0,0,Nuageux,26,63,23
+44,11,Électroménager,LG,157800,0,0,0,Nuageux,4,7,4
+6,2,Hygiène,Colgate,1700,0,0,0,Nuageux,46,97,45
+15,4,Électroménager,Brandt,141200,0,0,0,Nuageux,9,15,12
+23,6,Boissons,Rani,800,1,30,0,Ensoleillé,310,539,284
+22,6,Vêtements,Wax & Co,5400,0,0,0,Nuageux,55,108,45
+20,5,Boissons,Youki,1400,1,5,0,Nuageux,211,430,185
+44,11,Vêtements,Kente,4600,1,25,0,Ensoleillé,25,51,28
+35,9,Électroménager,Brandt,71000,0,0,0,Ensoleillé,7,16,9
+36,9,Alimentaire,Nestlé,4400,0,0,0,Ensoleillé,87,128,92
+24,6,Électroménager,Moulinex,37300,0,0,0,Pluvieux,10,24,10
+9,3,Boissons,Coca-Cola,2500,0,0,0,Nuageux,94,119,98
+51,1,Boissons,Kirène,1400,0,0,1,Ensoleillé,138,200,131
+17,5,Boissons,Youki,1500,1,15,0,Ensoleillé,235,316,211
+30,8,Boissons,Kirène,1400,1,20,0,Ensoleillé,242,343,255
+21,6,Hygiène,Dettol,3600,0,0,0,Ensoleillé,94,212,102
+52,1,Électroménager,Hisense,185700,0,0,1,Ensoleillé,5,6,6
+5,2,Alimentaire,Mama,5800,0,0,0,Ensoleillé,69,96,70
+29,8,Hygiène,Dettol,4600,0,0,0,Nuageux,79,137,68
+5,2,Alimentaire,Mama,4700,0,0,0,Ensoleillé,71,150,66
+47,12,Boissons,Youki,1900,0,0,0,Ensoleillé,69,161,88
+10,3,Hygiène,Nivea,3600,0,0,0,Ensoleillé,64,119,58
+45,12,Vêtements,Kente,10700,1,0,0,Ensoleillé,13,15,13
+2,1,Boissons,Coca-Cola,2000,1,5,0,Nuageux,84,116,85
+24,6,Boissons,Rani,2000,1,25,0,Nuageux,222,502,222
+40,10,Boissons,Youki,1000,1,10,0,Nuageux,139,207,126
+50,1,Vêtements,Afriq Style,30800,0,0,1,Ensoleillé,24,35,26
+49,1,Vêtements,Wax & Co,33500,0,0,0,Pluvieux,16,25,15
+4,1,Électroménager,Brandt,33700,1,15,1,Ensoleillé,9,17,10
+23,6,Vêtements,Dakar Mode,11100,0,0,0,Ensoleillé,38,88,38
+29,8,Boissons,Kirène,1400,1,5,0,Ensoleillé,195,238,170
+31,8,Alimentaire,Kirène,3000,1,0,0,Ensoleillé,115,213,107
+43,11,Alimentaire,Mama,6200,0,0,0,Ensoleillé,71,121,58
+36,9,Électroménager,LG,75300,0,0,0,Pluvieux,4,6,5
+35,9,Vêtements,Afriq Style,29100,1,20,0,Ensoleillé,34,52,33
+29,8,Électroménager,Hisense,63000,1,5,0,Pluvieux,9,21,9
+25,7,Vêtements,Kantamanto,16200,0,0,0,Ensoleillé,29,55,31
+4,1,Vêtements,Kantamanto,18100,0,0,0,Nuageux,19,31,18
+43,11,Alimentaire,Kirène,1800,1,10,0,Nuageux,50,105,54
+51,1,Boissons,Coca-Cola,1700,0,0,0,Nuageux,77,187,97
+45,12,Alimentaire,Nestlé,2500,0,0,1,Ensoleillé,79,182,73
+6,2,Alimentaire,Kirène,2000,1,10,0,Ensoleillé,124,163,103
+6,2,Hygiène,Dove,3100,0,0,0,Nuageux,38,88,44
+23,6,Boissons,Gazelle,1400,0,0,0,Ensoleillé,203,355,163
+50,1,Boissons,Coca-Cola,2900,0,0,0,Nuageux,87,116,79
+17,5,Vêtements,Dakar Mode,7600,1,25,0,Ensoleillé,47,91,50
+36,9,Électroménager,LG,68200,1,30,0,Ensoleillé,15,37,13
+15,4,Alimentaire,Nestlé,7500,1,30,0,Ensoleillé,152,274,152
+2,1,Vêtements,Dakar Mode,10900,0,0,0,Ensoleillé,20,26,20
+51,1,Électroménager,Moulinex,199200,0,0,0,Pluvieux,4,7,4
+45,12,Vêtements,Kantamanto,3900,1,15,0,Nuageux,19,24,20
+10,3,Vêtements,Kantamanto,8700,0,0,0,Ensoleillé,26,57,26
+35,9,Électroménager,LG,77800,0,0,0,Nuageux,7,14,8
+12,3,Hygiène,Dove,4700,0,0,0,Nuageux,89,152,75
+13,4,Hygiène,Palmolive,4300,1,30,0,Ensoleillé,129,242,115
+52,1,Électroménager,Moulinex,184800,1,30,0,Nuageux,5,12,6
+50,1,Vêtements,Afriq Style,11100,0,0,0,Ensoleillé,21,40,21
+44,11,Électroménager,LG,97400,0,0,0,Ensoleillé,5,11,6
+18,5,Hygiène,Dove,1600,1,0,0,Nuageux,84,115,91
+36,9,Vêtements,Dakar Mode,24500,0,0,0,Ensoleillé,28,54,25
+48,12,Hygiène,Dove,2200,0,0,0,Nuageux,31,77,32
+13,4,Vêtements,Kantamanto,13000,1,30,0,Nuageux,38,86,45
+52,1,Hygiène,Dove,3100,1,15,0,Nuageux,69,89,57
+50,1,Hygiène,Colgate,1700,1,0,0,Ensoleillé,44,78,49
+6,2,Vêtements,Dakar Mode,25200,0,0,0,Ensoleillé,23,52,26
+43,11,Hygiène,Colgate,3600,0,0,0,Ensoleillé,31,67,40
+23,6,Hygiène,Palmolive,900,1,15,0,Ensoleillé,107,130,112
+22,6,Hygiène,Dettol,3200,0,0,0,Ensoleillé,86,196,85
+23,6,Boissons,Rani,2900,1,5,0,Ensoleillé,151,333,181
+38,10,Boissons,Rani,1400,1,30,0,Ensoleillé,181,442,176
+14,4,Électroménager,LG,186300,0,0,0,Ensoleillé,12,19,11
+36,9,Alimentaire,Daffé,5400,1,15,0,Très chaud,100,215,86
+14,4,Boissons,Gazelle,600,0,0,0,Nuageux,152,369,148
+5,2,Vêtements,Afriq Style,3300,0,0,0,Ensoleillé,18,23,20
+32,8,Électroménager,LG,134900,1,30,0,Ensoleillé,15,31,17
+25,7,Électroménager,Moulinex,99400,0,0,0,Pluvieux,6,12,8
+16,4,Électroménager,Hisense,86000,0,0,1,Très chaud,12,17,11
+38,10,Alimentaire,Patisen,3300,1,0,0,Ensoleillé,65,136,63
+43,11,Boissons,Rani,2900,1,10,0,Ensoleillé,134,291,108
+1,1,Alimentaire,Nestlé,5800,1,10,0,Pluvieux,45,103,55
+49,1,Électroménager,Brandt,64800,1,25,0,Ensoleillé,6,13,8
+2,1,Vêtements,Wax & Co,31700,0,0,0,Pluvieux,19,45,18
+45,12,Boissons,Kirène,600,0,0,0,Ensoleillé,77,180,76
+8,2,Hygiène,Nivea,2500,0,0,0,Très chaud,29,35,39
+49,1,Boissons,Youki,2900,0,0,0,Ensoleillé,91,110,101
+30,8,Alimentaire,Nestlé,7400,0,0,0,Ensoleillé,96,173,120
+29,8,Vêtements,Afriq Style,24200,0,0,0,Nuageux,38,72,32
+32,8,Alimentaire,Nestlé,1900,0,0,0,Nuageux,78,187,88
+43,11,Alimentaire,Kirène,6500,1,20,0,Nuageux,77,108,71
+48,12,Électroménager,Moulinex,86700,1,5,1,Ensoleillé,6,10,7
+10,3,Alimentaire,Nestlé,6300,1,30,0,Ensoleillé,149,265,138
+4,1,Boissons,Coca-Cola,1600,0,0,0,Pluvieux,66,141,73
+48,12,Alimentaire,Daffé,6800,1,20,0,Pluvieux,46,61,52
+47,12,Hygiène,Dettol,2000,0,0,0,Ensoleillé,42,66,40
+47,12,Vêtements,Kente,17300,1,25,0,Nuageux,13,31,14
+21,6,Vêtements,Afriq Style,11700,1,25,0,Très chaud,33,65,42
+38,10,Hygiène,Nivea,1600,0,0,0,Nuageux,27,56,35
+17,5,Vêtements,Afriq Style,14800,0,0,0,Pluvieux,18,35,20
+39,10,Hygiène,Nivea,2500,0,0,0,Pluvieux,35,86,44
+34,9,Électroménager,Moulinex,172900,0,0,0,Ensoleillé,8,15,8
+48,12,Hygiène,Nivea,1900,0,0,0,Nuageux,31,41,34
+23,6,Électroménager,LG,83400,1,10,0,Pluvieux,15,20,13
+30,8,Électroménager,Hisense,188200,1,30,0,Nuageux,14,28,17
+27,7,Boissons,Coca-Cola,1300,0,0,0,Pluvieux,123,172,104
+1,1,Boissons,Coca-Cola,2600,0,0,0,Ensoleillé,104,179,85
+3,1,Alimentaire,Patisen,7800,0,0,0,Ensoleillé,40,82,36
+2,1,Électroménager,Samsung,185600,0,0,0,Nuageux,4,6,5
+13,4,Boissons,Kirène,2700,1,20,0,Nuageux,167,253,220
+39,10,Électroménager,Samsung,87500,0,0,0,Très chaud,4,9,5
+17,5,Vêtements,Wax & Co,28200,1,15,0,Ensoleillé,51,86,46
+35,9,Hygiène,Dove,3200,1,10,0,Pluvieux,60,94,55
+45,12,Électroménager,Brandt,146200,1,20,0,Pluvieux,5,6,5
+23,6,Électroménager,Hisense,148200,1,0,0,Très chaud,9,17,10
+33,9,Boissons,Coca-Cola,2600,1,30,0,Très chaud,203,391,176
+10,3,Boissons,Youki,2400,0,0,0,Ensoleillé,126,158,113
+27,7,Alimentaire,Daffé,5000,1,10,0,Nuageux,137,240,143
+2,1,Boissons,Youki,1500,0,0,0,Pluvieux,60,143,77
+13,4,Hygiène,Palmolive,4800,0,0,0,Ensoleillé,69,121,59
+3,1,Hygiène,Dettol,4500,0,0,0,Ensoleillé,31,57,37
+11,3,Hygiène,Nivea,800,1,25,0,Ensoleillé,94,144,80
+40,10,Électroménager,Hisense,70900,0,0,0,Pluvieux,3,6,5
+44,11,Vêtements,Kente,3300,1,20,0,Ensoleillé,23,44,23
+16,4,Boissons,Gazelle,2300,0,0,0,Ensoleillé,163,286,140
+16,4,Hygiène,Nivea,3100,0,0,0,Ensoleillé,104,213,90
+14,4,Vêtements,Kantamanto,10300,1,5,1,Nuageux,29,43,26
+12,3,Hygiène,Palmolive,3100,0,0,0,Nuageux,73,121,66
+8,2,Vêtements,Dakar Mode,24400,0,0,0,Pluvieux,17,24,19
+19,5,Électroménager,Moulinex,26700,0,0,0,Ensoleillé,7,14,10
+27,7,Alimentaire,Kirène,4500,0,0,0,Nuageux,80,123,106
+30,8,Boissons,Gazelle,500,1,20,0,Très chaud,132,274,162
+4,1,Alimentaire,Mama,6600,0,0,0,Ensoleillé,53,109,61
+18,5,Hygiène,Palmolive,4500,0,0,0,Nuageux,98,227,89
+16,4,Hygiène,Nivea,3900,1,5,0,Pluvieux,60,103,56
+39,10,Boissons,Kirène,1000,1,20,0,Ensoleillé,139,188,150
+16,4,Hygiène,Palmolive,900,0,0,0,Ensoleillé,70,161,74
+51,1,Alimentaire,Mama,6300,1,25,0,Pluvieux,58,81,64
+37,10,Vêtements,Kantamanto,5900,1,25,0,Pluvieux,29,34,27
+14,4,Vêtements,Kente,7400,0,0,0,Nuageux,27,35,26
+25,7,Boissons,Coca-Cola,1900,1,5,0,Nuageux,186,359,161
+22,6,Vêtements,Afriq Style,28100,0,0,0,Ensoleillé,33,48,39
+18,5,Hygiène,Dettol,800,1,20,0,Pluvieux,85,193,78
+13,4,Vêtements,Dakar Mode,10100,0,0,1,Nuageux,42,50,36
+16,4,Boissons,Kirène,1400,0,0,0,Ensoleillé,207,330,172
+13,4,Vêtements,Kantamanto,29200,0,0,0,Ensoleillé,43,95,40
+36,9,Boissons,Kirène,600,1,5,0,Ensoleillé,144,193,160
+30,8,Alimentaire,Nestlé,1500,1,20,0,Ensoleillé,150,271,125
+47,12,Électroménager,Brandt,87200,0,0,0,Ensoleillé,5,10,5
+37,10,Alimentaire,Daffé,6000,1,10,0,Nuageux,73,155,71
+39,10,Électroménager,Hisense,120100,0,0,0,Ensoleillé,11,26,9
+39,10,Alimentaire,Nestlé,7800,0,0,0,Nuageux,55,88,53
+39,10,Alimentaire,Patisen,3200,0,0,0,Nuageux,79,128,73
+39,10,Alimentaire,Patisen,3800,1,30,0,Pluvieux,65,106,70
+37,10,Hygiène,Colgate,1400,1,15,0,Ensoleillé,71,150,63
+17,5,Hygiène,Palmolive,3900,0,0,0,Ensoleillé,71,87,85
+8,2,Boissons,Coca-Cola,2200,0,0,0,Très chaud,96,196,81
+22,6,Alimentaire,Nestlé,4300,1,5,0,Pluvieux,105,165,88
+30,8,Vêtements,Kente,7100,0,0,0,Nuageux,38,76,34
+8,2,Vêtements,Afriq Style,16300,1,15,0,Pluvieux,21,39,22
+36,9,Électroménager,LG,167600,0,0,0,Ensoleillé,7,8,9
+50,1,Hygiène,Nivea,2400,0,0,0,Pluvieux,26,48,32
+34,9,Hygiène,Colgate,4800,1,5,0,Ensoleillé,60,128,66
+31,8,Alimentaire,Mama,7900,1,0,0,Ensoleillé,127,311,103
+10,3,Alimentaire,Kirène,4300,0,0,0,Nuageux,58,100,59
+20,5,Boissons,Kirène,2100,0,0,0,Ensoleillé,140,199,176
+18,5,Hygiène,Nivea,2200,0,0,0,Très chaud,97,197,89
+43,11,Vêtements,Wax & Co,20800,0,0,0,Nuageux,10,17,13
+41,11,Boissons,Gazelle,2800,1,15,0,Nuageux,75,119,96
+13,4,Vêtements,Dakar Mode,3900,1,25,0,Pluvieux,36,51,37
+38,10,Boissons,Gazelle,900,0,0,0,Ensoleillé,103,141,107
+35,9,Boissons,Rani,1900,0,0,0,Ensoleillé,102,183,103
+2,1,Hygiène,Dove,2200,0,0,0,Ensoleillé,42,73,38
+40,10,Électroménager,Brandt,166200,0,0,0,Ensoleillé,7,16,8
+36,9,Alimentaire,Kirène,3000,1,0,0,Ensoleillé,88,131,74
+43,11,Boissons,Rani,2000,1,10,0,Ensoleillé,94,216,110
+48,12,Vêtements,Dakar Mode,26700,1,30,0,Nuageux,27,62,27
+47,12,Électroménager,Hisense,42800,1,20,0,Nuageux,6,14,6
+45,12,Vêtements,Kente,21400,1,10,0,Ensoleillé,16,27,18
+8,2,Hygiène,Colgate,4700,1,15,0,Pluvieux,50,95,57
+29,8,Boissons,Youki,1100,0,0,0,Ensoleillé,170,421,149
+2,1,Électroménager,Hisense,117400,1,5,0,Ensoleillé,7,9,6
+36,9,Vêtements,Kantamanto,12200,1,25,0,Ensoleillé,63,151,52
+26,7,Électroménager,Moulinex,166900,0,0,0,Ensoleillé,11,25,11
+1,1,Boissons,Coca-Cola,1000,0,0,0,Pluvieux,58,77,73
+5,2,Boissons,Youki,1900,0,0,0,Ensoleillé,127,296,103
+28,7,Boissons,Youki,1200,0,0,0,Ensoleillé,173,368,220
+41,11,Électroménager,Brandt,155400,0,0,0,Nuageux,4,5,4
+40,10,Hygiène,Palmolive,2700,0,0,0,Pluvieux,31,59,37
+49,1,Alimentaire,Mama,5000,0,0,0,Ensoleillé,71,138,65
+24,6,Électroménager,Brandt,164300,0,0,0,Très chaud,12,26,10
+23,6,Électroménager,Samsung,165800,0,0,0,Pluvieux,11,17,13
+14,4,Alimentaire,Daffé,5200,1,25,0,Ensoleillé,147,344,138
+19,5,Hygiène,Dove,4500,0,0,0,Ensoleillé,85,115,74
+33,9,Alimentaire,Daffé,5400,1,10,0,Ensoleillé,88,198,88
+12,3,Électroménager,Samsung,93600,1,25,0,Pluvieux,7,17,9
+44,11,Vêtements,Kantamanto,9000,1,15,0,Ensoleillé,25,46,23
+24,6,Alimentaire,Daffé,6000,0,0,0,Nuageux,132,165,128
+40,10,Alimentaire,Daffé,7000,0,0,0,Ensoleillé,81,184,67
+2,1,Boissons,Coca-Cola,1500,0,0,0,Ensoleillé,98,217,108
+38,10,Vêtements,Dakar Mode,33300,1,5,0,Ensoleillé,17,40,20
+16,4,Alimentaire,Patisen,2600,1,10,0,Nuageux,148,341,131
+34,9,Hygiène,Colgate,3300,1,0,0,Ensoleillé,42,83,57
+51,1,Vêtements,Kantamanto,14500,1,5,0,Ensoleillé,15,26,16
+37,10,Alimentaire,Patisen,7000,1,0,0,Ensoleillé,55,97,72
+47,12,Alimentaire,Patisen,2000,1,10,0,Ensoleillé,73,158,66
+7,2,Vêtements,Afriq Style,27600,0,0,0,Pluvieux,12,29,16
+42,11,Vêtements,Wax & Co,32900,0,0,0,Ensoleillé,16,22,16
+34,9,Vêtements,Afriq Style,11600,0,0,0,Ensoleillé,29,46,26
+9,3,Vêtements,Kantamanto,30600,0,0,0,Pluvieux,19,30,19
+9,3,Alimentaire,Kirène,7200,1,15,0,Pluvieux,70,169,82
+15,4,Hygiène,Dettol,800,0,0,0,Nuageux,70,114,73
+51,1,Électroménager,Samsung,115900,0,0,1,Nuageux,6,13,6
+1,1,Électroménager,Brandt,169600,1,30,0,Ensoleillé,8,10,9
+27,7,Boissons,Gazelle,2500,1,0,0,Ensoleillé,160,216,130
+35,9,Électroménager,Hisense,174500,1,0,0,Nuageux,5,8,6
+38,10,Électroménager,Moulinex,55400,0,0,0,Ensoleillé,6,13,6
+6,2,Boissons,Kirène,1900,1,0,0,Ensoleillé,84,135,102
+35,9,Boissons,Gazelle,2900,0,0,0,Ensoleillé,192,405,163
+28,7,Boissons,Gazelle,1000,0,0,0,Ensoleillé,229,394,190
+34,9,Hygiène,Nivea,2100,1,30,0,Ensoleillé,95,224,88
+19,5,Hygiène,Dove,2400,1,15,0,Nuageux,92,145,100
+8,2,Boissons,Coca-Cola,2300,1,25,0,Ensoleillé,148,289,149
+47,12,Vêtements,Kente,26800,0,0,0,Ensoleillé,15,29,18
+29,8,Alimentaire,Kirène,7700,0,0,0,Nuageux,103,185,105
+5,2,Hygiène,Palmolive,1900,1,30,0,Pluvieux,68,129,81
+24,6,Électroménager,Hisense,62800,0,0,0,Ensoleillé,14,24,12
+13,4,Hygiène,Dove,2500,0,0,1,Ensoleillé,87,112,79
+7,2,Hygiène,Dettol,1600,1,15,0,Ensoleillé,57,103,64
+13,4,Alimentaire,Kirène,5400,0,0,0,Ensoleillé,107,137,97
+2,1,Hygiène,Nivea,1500,0,0,1,Pluvieux,36,49,45
+36,9,Électroménager,Brandt,190600,0,0,0,Ensoleillé,8,17,9
+16,4,Électroménager,Brandt,117500,1,5,0,Ensoleillé,12,23,10
+15,4,Électroménager,LG,67100,0,0,0,Ensoleillé,11,20,10
+33,9,Boissons,Kirène,1600,1,15,0,Ensoleillé,197,455,172
+13,4,Hygiène,Dettol,2800,0,0,0,Ensoleillé,56,131,54
+39,10,Alimentaire,Nestlé,4300,0,0,0,Pluvieux,57,122,63
+16,4,Alimentaire,Kirène,6300,0,0,0,Nuageux,74,150,85
+37,10,Alimentaire,Mama,7200,1,0,0,Nuageux,79,95,70
+35,9,Vêtements,Dakar Mode,19200,0,0,0,Nuageux,21,35,24
+22,6,Électroménager,LG,112700,0,0,0,Pluvieux,8,14,7
+9,3,Vêtements,Kente,3600,0,0,0,Ensoleillé,22,48,24
+49,1,Électroménager,Hisense,114100,0,0,0,Nuageux,4,5,4
+51,1,Boissons,Youki,2700,1,10,0,Ensoleillé,112,263,108
+45,12,Vêtements,Dakar Mode,22000,0,0,1,Très chaud,14,29,18
+38,10,Alimentaire,Daffé,1500,0,0,0,Ensoleillé,63,122,82
+6,2,Vêtements,Dakar Mode,20200,1,0,0,Pluvieux,17,32,17
+22,6,Boissons,Coca-Cola,800,1,30,0,Nuageux,347,542,303
+11,3,Vêtements,Kantamanto,27400,0,0,0,Pluvieux,17,41,17
+17,5,Boissons,Kirène,2400,0,0,0,Ensoleillé,169,217,181
+16,4,Alimentaire,Daffé,4000,1,10,0,Nuageux,108,260,135
+51,1,Électroménager,Hisense,124200,0,0,0,Nuageux,4,8,5
+45,12,Électroménager,Brandt,66200,0,0,0,Ensoleillé,5,6,6
+7,2,Alimentaire,Patisen,3600,1,30,0,Pluvieux,53,108,64
+37,10,Vêtements,Afriq Style,13600,0,0,0,Nuageux,16,37,19
+18,5,Hygiène,Dettol,4100,0,0,0,Nuageux,73,144,66
+18,5,Boissons,Rani,1100,0,0,0,Pluvieux,143,278,149
+51,1,Boissons,Rani,1900,0,0,0,Pluvieux,67,97,56
+42,11,Boissons,Rani,2900,0,0,0,Très chaud,82,199,68
+11,3,Électroménager,Brandt,193300,1,10,0,Très chaud,7,9,9
+11,3,Hygiène,Dettol,1700,0,0,0,Ensoleillé,71,146,61
+13,4,Hygiène,Nivea,2200,0,0,0,Ensoleillé,87,126,81
+17,5,Hygiène,Colgate,4800,1,5,0,Ensoleillé,101,217,83
+28,7,Électroménager,Moulinex,141300,1,15,0,Ensoleillé,9,11,13
+25,7,Vêtements,Kente,7700,1,0,0,Ensoleillé,34,77,33
+8,2,Hygiène,Nivea,2600,1,10,0,Très chaud,45,85,53
+10,3,Hygiène,Colgate,800,1,0,0,Ensoleillé,78,182,90
+15,4,Électroménager,Hisense,48700,0,0,0,Pluvieux,6,12,8
+2,1,Boissons,Kirène,1500,0,0,0,Nuageux,62,75,74
+26,7,Boissons,Gazelle,800,1,25,0,Nuageux,261,614,212
+41,11,Électroménager,Samsung,66800,0,0,0,Ensoleillé,4,5,5
+18,5,Vêtements,Kente,17600,1,5,0,Ensoleillé,32,48,34
+34,9,Alimentaire,Kirène,1800,1,25,0,Ensoleillé,173,257,161
+21,6,Électroménager,Brandt,155600,0,0,0,Très chaud,8,15,9
+36,9,Hygiène,Dove,2400,0,0,0,Ensoleillé,52,92,64
+9,3,Vêtements,Dakar Mode,23800,1,5,0,Ensoleillé,35,75,32
+14,4,Hygiène,Colgate,4800,1,20,0,Très chaud,87,203,99
+6,2,Alimentaire,Patisen,7800,0,0,0,Nuageux,49,119,42
+12,3,Alimentaire,Daffé,6600,1,0,0,Nuageux,107,189,95
+36,9,Vêtements,Dakar Mode,9400,1,10,0,Ensoleillé,33,58,35
+6,2,Alimentaire,Mama,4100,1,5,0,Nuageux,76,107,74
+2,1,Électroménager,LG,38100,0,0,0,Ensoleillé,3,6,5
+49,1,Électroménager,Samsung,108100,0,0,0,Pluvieux,3,6,4
+47,12,Électroménager,Brandt,65700,1,20,0,Ensoleillé,7,11,8
+44,11,Hygiène,Palmolive,900,0,0,0,Nuageux,37,47,44
+15,4,Électroménager,Samsung,149000,1,5,0,Nuageux,7,9,8
+14,4,Hygiène,Dove,2200,1,5,0,Très chaud,50,103,63
+22,6,Alimentaire,Mama,7600,1,30,0,Ensoleillé,148,338,168
+11,3,Vêtements,Wax & Co,24500,1,15,0,Nuageux,37,81,32
+18,5,Vêtements,Afriq Style,11600,0,0,0,Ensoleillé,35,72,32
+23,6,Vêtements,Afriq Style,9200,0,0,0,Nuageux,31,54,33
+17,5,Vêtements,Wax & Co,24800,1,25,0,Nuageux,50,60,43
+23,6,Électroménager,Brandt,82500,1,20,0,Nuageux,10,18,13
+31,8,Hygiène,Palmolive,3300,0,0,0,Nuageux,71,114,83
+21,6,Hygiène,Dove,4800,1,0,0,Très chaud,58,141,64
+1,1,Alimentaire,Patisen,6300,0,0,1,Pluvieux,36,70,42
+44,11,Hygiène,Nivea,4400,1,25,0,Nuageux,67,146,60
+7,2,Hygiène,Nivea,1500,0,0,0,Nuageux,44,66,51
+20,5,Vêtements,Wax & Co,4500,1,5,0,Ensoleillé,45,67,43
+21,6,Électroménager,Hisense,186400,0,0,0,Ensoleillé,10,16,11
+14,4,Boissons,Coca-Cola,1700,0,0,1,Très chaud,146,309,179
+21,6,Vêtements,Wax & Co,7300,1,5,0,Pluvieux,31,68,29
+49,1,Électroménager,Hisense,140300,0,0,0,Ensoleillé,5,6,6
+14,4,Hygiène,Dove,2700,1,0,0,Nuageux,82,196,74
+10,3,Boissons,Gazelle,1500,0,0,0,Très chaud,113,156,93
+37,10,Alimentaire,Mama,3300,1,30,0,Nuageux,75,179,94
+47,12,Électroménager,LG,116700,0,0,0,Pluvieux,4,5,4
+14,4,Alimentaire,Nestlé,1700,1,5,0,Ensoleillé,88,127,100
+35,9,Vêtements,Dakar Mode,12800,1,5,0,Ensoleillé,32,63,29
+19,5,Électroménager,Hisense,155300,0,0,0,Pluvieux,6,8,9
+31,8,Vêtements,Kente,22400,1,15,1,Pluvieux,35,62,40
+40,10,Alimentaire,Mama,1600,0,0,0,Pluvieux,47,87,46
+20,5,Électroménager,LG,117900,0,0,0,Pluvieux,9,11,9
+27,7,Alimentaire,Patisen,5400,1,20,0,Ensoleillé,141,296,145
+29,8,Alimentaire,Nestlé,3800,0,0,0,Ensoleillé,133,182,116
+49,1,Alimentaire,Kirène,2700,1,30,0,Pluvieux,63,93,62
+3,1,Alimentaire,Patisen,4100,1,30,0,Ensoleillé,103,126,98
+37,10,Boissons,Gazelle,2700,0,0,0,Ensoleillé,109,178,103
+31,8,Alimentaire,Nestlé,6500,0,0,0,Pluvieux,76,173,80
+28,7,Vêtements,Kantamanto,7900,0,0,0,Ensoleillé,42,81,37
+17,5,Boissons,Gazelle,2500,1,10,0,Nuageux,225,467,189
+27,7,Électroménager,Hisense,87900,1,30,0,Très chaud,12,29,14
+51,1,Alimentaire,Mama,5100,0,0,0,Très chaud,43,80,48
+47,12,Électroménager,Samsung,186000,0,0,0,Ensoleillé,4,8,5
+3,1,Boissons,Rani,900,1,15,0,Nuageux,118,250,103
+18,5,Électroménager,Brandt,110600,1,0,0,Ensoleillé,8,13,10
+44,11,Électroménager,Moulinex,99900,0,0,0,Nuageux,4,5,5
+12,3,Alimentaire,Daffé,6000,1,20,0,Très chaud,88,188,105
+45,12,Boissons,Kirène,1000,0,0,0,Nuageux,65,106,72
+41,11,Hygiène,Nivea,2600,0,0,0,Ensoleillé,42,60,41
+47,12,Vêtements,Wax & Co,20300,0,0,1,Ensoleillé,20,27,18
+29,8,Électroménager,Moulinex,115400,1,15,0,Ensoleillé,15,22,15
+14,4,Vêtements,Dakar Mode,30700,1,20,0,Ensoleillé,39,87,40
+4,1,Hygiène,Palmolive,2600,0,0,0,Nuageux,53,119,44
+13,4,Boissons,Youki,1700,1,30,1,Ensoleillé,349,527,291
+37,10,Alimentaire,Patisen,7700,1,25,0,Ensoleillé,63,79,81
+39,10,Vêtements,Wax & Co,31600,0,0,0,Nuageux,19,37,20
+8,2,Électroménager,Brandt,109600,0,0,0,Ensoleillé,7,12,8
+32,8,Hygiène,Palmolive,3700,0,0,0,Ensoleillé,80,135,92
+45,12,Électroménager,Hisense,144000,0,0,0,Pluvieux,4,9,4
+46,12,Vêtements,Dakar Mode,5800,0,0,0,Très chaud,7,8,9
+13,4,Alimentaire,Patisen,5800,1,5,0,Ensoleillé,109,142,117
+34,9,Électroménager,Samsung,33700,1,0,0,Ensoleillé,7,9,7
+44,11,Électroménager,Samsung,27500,1,15,0,Pluvieux,4,7,4
+23,6,Électroménager,Hisense,164700,1,30,0,Ensoleillé,20,24,24
+28,7,Électroménager,Brandt,155700,0,0,0,Nuageux,11,15,10
+28,7,Hygiène,Dettol,4000,1,30,0,Ensoleillé,137,264,118
+1,1,Hygiène,Palmolive,2700,0,0,0,Ensoleillé,50,106,47
+27,7,Boissons,Youki,2300,0,0,0,Très chaud,196,277,170
+22,6,Électroménager,Samsung,80400,0,0,0,Ensoleillé,15,34,13
+47,12,Électroménager,Samsung,84300,1,25,0,Pluvieux,6,10,6
+35,9,Alimentaire,Mama,5400,1,10,0,Ensoleillé,86,213,100
+10,3,Vêtements,Dakar Mode,34900,0,0,0,Ensoleillé,22,35,26
+49,1,Boissons,Gazelle,1100,1,15,0,Nuageux,141,170,122
+14,4,Hygiène,Colgate,900,1,20,0,Ensoleillé,88,148,95
+24,6,Vêtements,Dakar Mode,3900,0,0,0,Pluvieux,28,54,28
+21,6,Boissons,Gazelle,2300,1,25,0,Nuageux,271,391,225
+13,4,Vêtements,Wax & Co,13200,1,30,0,Ensoleillé,61,139,49
+30,8,Électroménager,Hisense,86200,1,20,0,Ensoleillé,16,37,16
+15,4,Alimentaire,Patisen,6700,0,0,0,Très chaud,85,207,84
+52,1,Électroménager,Hisense,60000,0,0,0,Pluvieux,4,4,4
+32,8,Vêtements,Kantamanto,9100,1,10,1,Ensoleillé,69,118,56
+37,10,Électroménager,Moulinex,186000,1,0,0,Pluvieux,5,6,6
+52,1,Électroménager,Samsung,75800,0,0,0,Ensoleillé,5,9,5
+24,6,Hygiène,Dove,4500,0,0,0,Ensoleillé,76,179,98
+28,7,Électroménager,Brandt,188800,1,20,0,Ensoleillé,21,45,17
+47,12,Vêtements,Dakar Mode,22400,1,15,0,Nuageux,14,18,18
+37,10,Boissons,Coca-Cola,700,1,30,0,Ensoleillé,141,326,155
+24,6,Électroménager,Brandt,162400,1,30,0,Ensoleillé,20,44,22
+26,7,Électroménager,Hisense,102000,0,0,0,Ensoleillé,12,28,11
+39,10,Alimentaire,Patisen,4700,0,0,0,Ensoleillé,54,112,66
+43,11,Hygiène,Nivea,3300,1,20,0,Ensoleillé,40,56,52
+27,7,Alimentaire,Daffé,3700,0,0,0,Nuageux,148,196,125
+49,1,Vêtements,Wax & Co,26000,0,0,0,Ensoleillé,17,30,15
+5,2,Boissons,Rani,1700,0,0,0,Ensoleillé,114,196,110
+28,7,Hygiène,Nivea,3800,1,15,0,Ensoleillé,137,236,125
+7,2,Électroménager,Samsung,101900,1,30,0,Nuageux,11,14,10
+40,10,Alimentaire,Kirène,3200,1,15,0,Ensoleillé,113,166,97
+43,11,Alimentaire,Patisen,5700,0,0,0,Ensoleillé,52,101,55
+29,8,Boissons,Youki,600,0,0,0,Nuageux,111,182,111
+1,1,Boissons,Rani,2700,0,0,0,Pluvieux,69,101,62
+7,2,Électroménager,Hisense,84400,1,10,0,Ensoleillé,11,22,9
+10,3,Vêtements,Wax & Co,24300,1,5,0,Pluvieux,25,43,25
+33,9,Boissons,Coca-Cola,2900,1,5,0,Ensoleillé,115,142,137
+43,11,Boissons,Youki,700,1,30,0,Ensoleillé,125,217,128
+51,1,Hygiène,Dove,2000,1,15,0,Nuageux,46,67,60
+2,1,Hygiène,Nivea,2900,1,20,0,Ensoleillé,75,151,67
+51,1,Vêtements,Wax & Co,16600,1,20,0,Ensoleillé,26,44,25
+18,5,Alimentaire,Mama,3300,1,5,0,Pluvieux,95,166,106
+1,1,Boissons,Gazelle,2500,1,25,0,Ensoleillé,167,365,146
+11,3,Vêtements,Kantamanto,14100,0,0,0,Nuageux,20,39,24
+19,5,Vêtements,Wax & Co,32700,0,0,0,Ensoleillé,44,58,42
+3,1,Alimentaire,Nestlé,1800,0,0,0,Ensoleillé,50,70,52
+49,1,Alimentaire,Kirène,6700,1,20,0,Ensoleillé,65,121,72
+47,12,Électroménager,LG,112400,1,10,0,Pluvieux,5,8,5
+5,2,Boissons,Kirène,1900,0,0,0,Pluvieux,71,141,93
+1,1,Boissons,Rani,2000,0,0,0,Ensoleillé,113,271,98
+23,6,Alimentaire,Daffé,7500,0,0,0,Nuageux,86,193,89
+31,8,Vêtements,Kente,18500,1,0,0,Nuageux,39,91,32
+23,6,Vêtements,Kantamanto,12600,1,10,0,Ensoleillé,57,141,46
+9,3,Électroménager,Hisense,148000,1,0,0,Nuageux,9,12,10
+6,2,Électroménager,Samsung,127000,0,0,0,Ensoleillé,4,9,5
+41,11,Boissons,Rani,600,0,0,0,Ensoleillé,62,152,63
+14,4,Vêtements,Kantamanto,11000,1,5,0,Ensoleillé,38,70,32
+1,1,Alimentaire,Patisen,5800,1,10,0,Pluvieux,54,120,54
+48,12,Boissons,Gazelle,2900,1,30,0,Ensoleillé,86,143,113
+2,1,Alimentaire,Mama,7300,1,30,0,Ensoleillé,96,207,102
+24,6,Alimentaire,Patisen,4200,1,5,0,Très chaud,93,204,104
+10,3,Alimentaire,Patisen,3700,0,0,0,Ensoleillé,90,162,73
+3,1,Électroménager,Samsung,145000,1,10,0,Ensoleillé,4,7,5
+44,11,Électroménager,Brandt,57900,1,15,0,Nuageux,3,6,5
+7,2,Vêtements,Kente,20900,0,0,0,Ensoleillé,25,34,21
+8,2,Boissons,Youki,1100,1,25,0,Ensoleillé,170,421,161
+18,5,Boissons,Kirène,800,1,30,0,Nuageux,338,785,277
+50,1,Alimentaire,Patisen,4700,0,0,1,Très chaud,66,98,55
+42,11,Électroménager,Moulinex,124300,1,5,0,Ensoleillé,6,12,7
+9,3,Boissons,Coca-Cola,1200,0,0,0,Pluvieux,76,130,99
+21,6,Boissons,Kirène,1400,1,30,0,Pluvieux,244,297,230
+34,9,Électroménager,Samsung,123100,0,0,0,Nuageux,7,8,8
+1,1,Boissons,Gazelle,1100,1,0,0,Très chaud,89,148,77
+47,12,Alimentaire,Nestlé,4300,0,0,0,Nuageux,47,72,50
+36,9,Boissons,Youki,1000,0,0,0,Très chaud,128,177,104
+51,1,Hygiène,Palmolive,1500,1,5,0,Très chaud,38,53,40
+29,8,Hygiène,Dove,3800,0,0,0,Ensoleillé,78,142,64
+40,10,Électroménager,Hisense,129500,0,0,0,Nuageux,4,8,6
+41,11,Électroménager,Moulinex,181000,1,30,0,Ensoleillé,9,17,10
+50,1,Hygiène,Dettol,1400,0,0,0,Ensoleillé,37,52,42
+5,2,Hygiène,Colgate,2400,0,0,0,Nuageux,45,80,40
+30,8,Hygiène,Nivea,1500,1,25,0,Ensoleillé,91,141,98
+15,4,Électroménager,LG,126900,0,0,0,Ensoleillé,11,21,10
+2,1,Hygiène,Dettol,1500,0,0,1,Très chaud,62,118,58
+47,12,Boissons,Youki,2700,0,0,0,Ensoleillé,93,130,75
+39,10,Hygiène,Nivea,4900,1,30,0,Nuageux,62,142,81
+19,5,Hygiène,Nivea,4800,1,15,0,Ensoleillé,113,143,105
+16,4,Vêtements,Dakar Mode,31700,0,0,0,Pluvieux,17,40,23
+5,2,Boissons,Coca-Cola,2800,1,20,0,Nuageux,144,197,145
+51,1,Vêtements,Dakar Mode,7000,0,0,0,Nuageux,19,30,17
+19,5,Électroménager,Hisense,145900,1,10,0,Pluvieux,9,21,11
+38,10,Alimentaire,Patisen,3200,0,0,0,Ensoleillé,72,101,72
+11,3,Vêtements,Kente,4100,1,5,0,Ensoleillé,27,41,32
+8,2,Hygiène,Nivea,1900,0,0,0,Nuageux,48,63,51
+18,5,Électroménager,LG,128400,0,0,0,Nuageux,11,19,11
+3,1,Boissons,Gazelle,2500,0,0,0,Nuageux,102,225,84
+27,7,Hygiène,Colgate,2400,0,0,0,Ensoleillé,71,97,91
+39,10,Alimentaire,Daffé,7600,1,0,0,Très chaud,52,83,62
+9,3,Alimentaire,Nestlé,6500,0,0,0,Ensoleillé,83,109,94
+37,10,Électroménager,Samsung,102000,0,0,0,Pluvieux,3,6,4
+8,2,Vêtements,Kantamanto,5100,0,0,0,Ensoleillé,27,46,23
+33,9,Boissons,Coca-Cola,2100,1,0,0,Ensoleillé,118,263,116
+51,1,Hygiène,Nivea,2700,1,0,0,Nuageux,42,71,41
+4,1,Électroménager,Moulinex,83900,0,0,0,Pluvieux,2,4,3
+48,12,Vêtements,Kantamanto,16800,1,10,0,Nuageux,23,42,21
+9,3,Électroménager,Moulinex,119700,0,0,0,Ensoleillé,6,9,7
+19,5,Alimentaire,Patisen,7200,1,5,0,Ensoleillé,137,173,139
+28,7,Électroménager,Hisense,89800,1,10,0,Ensoleillé,16,34,15
+26,7,Boissons,Kirène,2000,0,0,0,Ensoleillé,197,267,177
+17,5,Boissons,Coca-Cola,1800,0,0,0,Ensoleillé,170,355,166
+41,11,Hygiène,Palmolive,3800,1,20,0,Très chaud,54,99,52
+49,1,Alimentaire,Mama,6900,0,0,0,Ensoleillé,60,74,65
+47,12,Alimentaire,Daffé,6200,1,15,0,Ensoleillé,58,80,64
+51,1,Vêtements,Kente,11700,1,15,0,Très chaud,16,25,19
+34,9,Hygiène,Dove,2000,1,25,0,Ensoleillé,56,134,67
+23,6,Vêtements,Wax & Co,26700,1,15,0,Ensoleillé,32,54,43
+17,5,Hygiène,Colgate,1300,1,5,0,Ensoleillé,125,217,102
+51,1,Alimentaire,Nestlé,4200,0,0,0,Ensoleillé,51,92,53
+14,4,Vêtements,Wax & Co,34400,0,0,0,Pluvieux,28,55,25
+23,6,Boissons,Kirène,1200,0,0,0,Ensoleillé,185,453,162
+49,1,Hygiène,Palmolive,3000,1,0,0,Pluvieux,35,46,34
+44,11,Vêtements,Afriq Style,30200,1,15,0,Nuageux,16,33,19
+27,7,Hygiène,Nivea,3900,0,0,0,Pluvieux,60,109,73
+12,3,Alimentaire,Patisen,5500,1,0,0,Nuageux,73,107,80
+15,4,Hygiène,Colgate,4300,1,20,0,Nuageux,118,193,104
+43,11,Vêtements,Afriq Style,5000,1,25,0,Ensoleillé,18,25,18
+28,7,Boissons,Youki,700,1,15,0,Nuageux,191,428,170
+25,7,Boissons,Kirène,700,0,0,0,Ensoleillé,164,400,182
+19,5,Alimentaire,Patisen,7000,0,0,0,Pluvieux,58,135,61
+3,1,Boissons,Coca-Cola,2300,0,0,0,Ensoleillé,97,152,81
+25,7,Électroménager,Samsung,99300,1,25,0,Ensoleillé,12,26,13
+26,7,Hygiène,Colgate,3900,0,0,0,Nuageux,105,218,86
+45,12,Vêtements,Kente,23900,0,0,0,Ensoleillé,20,44,17
+28,7,Électroménager,Brandt,100600,1,10,0,Nuageux,7,13,9
+38,10,Boissons,Kirène,2000,0,0,0,Ensoleillé,102,133,86
+36,9,Vêtements,Dakar Mode,10000,0,0,0,Ensoleillé,21,45,27
+23,6,Boissons,Kirène,2000,1,5,0,Nuageux,194,477,188
+39,10,Alimentaire,Kirène,4400,1,25,0,Ensoleillé,94,200,89
+1,1,Vêtements,Kantamanto,6300,0,0,0,Ensoleillé,19,31,16
+38,10,Boissons,Coca-Cola,1900,0,0,0,Ensoleillé,119,226,105
+14,4,Hygiène,Dove,2200,1,10,0,Pluvieux,84,102,68
+52,1,Boissons,Coca-Cola,1800,0,0,0,Très chaud,85,119,69
+8,2,Alimentaire,Nestlé,4100,1,20,0,Ensoleillé,132,205,108
+20,5,Vêtements,Wax & Co,23100,1,25,0,Nuageux,38,66,44
+18,5,Électroménager,LG,49400,0,0,0,Ensoleillé,7,8,10
+17,5,Hygiène,Nivea,4600,1,30,0,Pluvieux,79,160,82
+30,8,Vêtements,Dakar Mode,13600,0,0,0,Ensoleillé,35,67,29
+3,1,Électroménager,Brandt,127300,1,15,1,Pluvieux,6,13,7
+13,4,Boissons,Kirène,700,1,10,0,Nuageux,207,502,174
+50,1,Boissons,Rani,1800,1,5,0,Ensoleillé,68,98,74
+26,7,Boissons,Rani,2900,0,0,0,Très chaud,110,182,131
+13,4,Hygiène,Dettol,1900,0,0,0,Ensoleillé,116,147,94
+45,12,Boissons,Coca-Cola,2100,0,0,0,Pluvieux,61,150,51
+13,4,Alimentaire,Kirène,6100,0,0,1,Ensoleillé,162,304,156
+9,3,Boissons,Coca-Cola,2300,1,5,0,Nuageux,121,172,130
+15,4,Électroménager,Moulinex,132100,1,5,0,Ensoleillé,10,21,12
+4,1,Vêtements,Afriq Style,10500,0,0,0,Nuageux,18,34,17
+34,9,Électroménager,Samsung,152500,1,30,0,Pluvieux,9,15,10
+38,10,Électroménager,LG,91700,0,0,0,Ensoleillé,9,11,9
+45,12,Électroménager,LG,26300,0,0,0,Nuageux,5,11,5
+24,6,Alimentaire,Nestlé,3300,1,10,0,Nuageux,172,414,146
+5,2,Vêtements,Kantamanto,21100,0,0,0,Très chaud,12,19,13
+38,10,Boissons,Rani,1500,1,15,0,Très chaud,106,207,115
+52,1,Alimentaire,Mama,4400,0,0,0,Nuageux,57,74,48
+27,7,Alimentaire,Kirène,7600,1,5,0,Ensoleillé,107,245,99
+17,5,Boissons,Rani,2200,0,0,0,Pluvieux,97,165,130
+33,9,Boissons,Youki,1000,0,0,0,Ensoleillé,151,186,130
+42,11,Électroménager,Samsung,101900,1,5,0,Pluvieux,4,7,4
+46,12,Alimentaire,Mama,6900,0,0,0,Nuageux,45,72,45
+23,6,Hygiène,Palmolive,3600,1,30,0,Ensoleillé,121,150,132
+52,1,Alimentaire,Patisen,3800,1,0,0,Ensoleillé,51,126,50
+30,8,Boissons,Coca-Cola,2600,0,0,0,Très chaud,144,199,138
+29,8,Hygiène,Nivea,3800,0,0,0,Pluvieux,49,94,65
+1,1,Électroménager,LG,106600,0,0,1,Ensoleillé,6,14,7
+16,4,Électroménager,Hisense,175000,0,0,0,Nuageux,10,19,10
+2,1,Vêtements,Afriq Style,34000,0,0,0,Nuageux,15,30,18
+26,7,Hygiène,Palmolive,1900,0,0,0,Pluvieux,76,147,83
+36,9,Électroménager,Brandt,143100,0,0,0,Ensoleillé,8,19,9
+15,4,Vêtements,Afriq Style,23900,0,0,0,Pluvieux,20,33,24
+40,10,Alimentaire,Kirène,7600,1,10,0,Nuageux,71,103,80
+36,9,Électroménager,LG,162100,1,20,0,Nuageux,8,13,10
+28,7,Électroménager,LG,193500,1,20,0,Pluvieux,9,18,13
+29,8,Électroménager,Moulinex,193400,0,0,0,Nuageux,12,24,10
+37,10,Alimentaire,Mama,3500,1,5,0,Ensoleillé,75,120,78
+52,1,Boissons,Coca-Cola,1900,1,5,1,Ensoleillé,95,135,123
+10,3,Alimentaire,Mama,4200,0,0,0,Ensoleillé,105,215,85
+4,1,Boissons,Kirène,700,1,5,0,Pluvieux,61,90,76
+5,2,Alimentaire,Kirène,7900,1,5,0,Pluvieux,56,118,56
+41,11,Hygiène,Nivea,4600,0,0,0,Pluvieux,41,67,36
+2,1,Électroménager,Samsung,114800,1,20,0,Ensoleillé,6,10,8
+40,10,Électroménager,Samsung,76800,0,0,0,Pluvieux,4,9,5
+21,6,Électroménager,LG,197900,1,30,0,Nuageux,20,28,17
+15,4,Électroménager,Brandt,105500,0,0,0,Nuageux,7,10,8
+12,3,Boissons,Kirène,2100,0,0,0,Nuageux,169,288,136
+10,3,Alimentaire,Nestlé,6700,0,0,0,Nuageux,98,118,90
+50,1,Hygiène,Dove,2000,0,0,0,Nuageux,46,81,38
+50,1,Alimentaire,Nestlé,4000,1,0,0,Pluvieux,38,47,38
+32,8,Électroménager,Hisense,141800,1,10,0,Ensoleillé,11,25,13
+27,7,Vêtements,Dakar Mode,25400,0,0,0,Nuageux,30,70,38
+19,5,Boissons,Rani,1200,0,0,0,Très chaud,202,291,163
+17,5,Électroménager,Brandt,112100,0,0,0,Ensoleillé,13,17,12
+1,1,Hygiène,Colgate,1600,0,0,0,Pluvieux,29,65,34
+37,10,Boissons,Rani,2500,0,0,0,Nuageux,97,186,93
+11,3,Alimentaire,Mama,3200,0,0,0,Très chaud,78,108,67
+51,1,Hygiène,Colgate,3500,1,10,1,Très chaud,73,127,62
+20,5,Électroménager,LG,138900,0,0,0,Très chaud,6,7,8
+38,10,Boissons,Youki,2800,1,30,0,Pluvieux,93,141,91
+10,3,Hygiène,Nivea,1000,1,0,0,Très chaud,39,84,46
+45,12,Vêtements,Afriq Style,11600,0,0,0,Ensoleillé,10,13,13
+42,11,Boissons,Coca-Cola,1300,1,25,0,Nuageux,80,188,104
+47,12,Alimentaire,Patisen,2300,1,15,0,Pluvieux,71,132,65
+15,4,Hygiène,Dettol,2600,0,0,0,Ensoleillé,69,143,70
+24,6,Boissons,Rani,900,0,0,0,Nuageux,234,396,211
+23,6,Hygiène,Colgate,2300,0,0,0,Nuageux,110,199,101
+44,11,Électroménager,LG,61600,1,20,0,Ensoleillé,5,8,5
+26,7,Électroménager,Brandt,128500,1,10,0,Nuageux,12,18,14
+24,6,Vêtements,Wax & Co,12600,0,0,0,Ensoleillé,37,48,35
+6,2,Alimentaire,Nestlé,7400,0,0,0,Pluvieux,44,102,57
+11,3,Hygiène,Palmolive,1200,0,0,0,Très chaud,42,93,51
+45,12,Alimentaire,Kirène,3600,0,0,0,Pluvieux,42,55,47
+49,1,Vêtements,Kente,34100,0,0,0,Ensoleillé,20,26,19
+25,7,Vêtements,Afriq Style,29300,1,25,0,Ensoleillé,45,61,47
+15,4,Électroménager,Brandt,157000,1,30,0,Nuageux,17,35,14
+24,6,Boissons,Youki,500,0,0,0,Ensoleillé,147,213,170
+31,8,Électroménager,Moulinex,164600,0,0,0,Pluvieux,6,13,7
+40,10,Vêtements,Dakar Mode,25600,0,0,0,Nuageux,20,30,17
+1,1,Hygiène,Colgate,4600,0,0,1,Nuageux,39,85,44
+39,10,Alimentaire,Kirène,2400,1,10,0,Pluvieux,62,94,57
+44,11,Alimentaire,Daffé,4100,1,30,0,Pluvieux,83,186,69
+35,9,Vêtements,Kantamanto,16600,1,30,0,Nuageux,37,87,40
+29,8,Vêtements,Afriq Style,6700,0,0,0,Ensoleillé,30,45,29
+28,7,Boissons,Coca-Cola,700,1,25,0,Ensoleillé,257,623,241
+21,6,Électroménager,Moulinex,105500,0,0,0,Ensoleillé,6,12,8
+17,5,Alimentaire,Kirène,6400,0,0,0,Ensoleillé,121,179,108
+3,1,Boissons,Gazelle,500,0,0,0,Ensoleillé,88,166,90
+47,12,Vêtements,Afriq Style,9400,0,0,0,Ensoleillé,12,18,15
+34,9,Boissons,Youki,2900,1,20,0,Ensoleillé,201,449,186
+12,3,Hygiène,Nivea,4900,0,0,0,Nuageux,76,130,64
+52,1,Alimentaire,Patisen,3300,0,0,0,Ensoleillé,61,135,57
+42,11,Boissons,Kirène,900,0,0,0,Ensoleillé,71,108,74
+27,7,Alimentaire,Daffé,4900,1,10,0,Nuageux,139,278,121
+29,8,Vêtements,Dakar Mode,8700,0,0,0,Ensoleillé,35,52,30
+27,7,Vêtements,Dakar Mode,34200,0,0,0,Pluvieux,36,64,30
+48,12,Hygiène,Palmolive,900,0,0,0,Ensoleillé,33,41,43
+28,7,Électroménager,Samsung,51500,1,0,0,Nuageux,12,21,11
+18,5,Vêtements,Afriq Style,9300,0,0,0,Ensoleillé,27,40,32
+14,4,Vêtements,Wax & Co,21300,0,0,0,Pluvieux,29,62,24
+41,11,Vêtements,Kantamanto,15300,0,0,0,Ensoleillé,20,49,18
+52,1,Boissons,Kirène,2200,1,25,0,Nuageux,131,309,116
+41,11,Hygiène,Palmolive,3500,1,20,0,Ensoleillé,40,53,48
+24,6,Vêtements,Wax & Co,31500,0,0,0,Ensoleillé,28,36,35
+28,7,Hygiène,Dettol,4300,1,15,0,Très chaud,87,149,88
+12,3,Électroménager,Brandt,162400,1,30,0,Ensoleillé,14,22,13
+47,12,Alimentaire,Patisen,2000,1,5,1,Pluvieux,50,82,57
+51,1,Boissons,Coca-Cola,2800,0,0,0,Nuageux,41,59,52
+48,12,Alimentaire,Kirène,5400,0,0,0,Ensoleillé,27,37,36
+25,7,Hygiène,Dove,4800,0,0,0,Ensoleillé,109,162,105
+5,2,Vêtements,Kantamanto,31600,0,0,0,Pluvieux,11,25,14
+19,5,Boissons,Rani,1700,0,0,0,Ensoleillé,146,227,144
+2,1,Vêtements,Wax & Co,4700,1,15,0,Ensoleillé,22,39,21
+1,1,Hygiène,Palmolive,3700,1,20,1,Nuageux,62,152,65
+44,11,Hygiène,Colgate,2200,1,0,0,Ensoleillé,42,70,45
+2,1,Boissons,Gazelle,2400,0,0,0,Ensoleillé,80,127,95
+43,11,Boissons,Rani,2800,0,0,0,Ensoleillé,65,107,72
+11,3,Vêtements,Wax & Co,34700,1,10,0,Nuageux,37,77,34
+17,5,Vêtements,Kente,20200,1,25,0,Ensoleillé,44,79,46
+26,7,Vêtements,Dakar Mode,4500,0,0,0,Pluvieux,21,42,21
+19,5,Hygiène,Nivea,1200,0,0,0,Très chaud,70,106,93
+9,3,Boissons,Coca-Cola,2400,1,30,0,Nuageux,175,317,176
+43,11,Alimentaire,Mama,7900,0,0,0,Ensoleillé,65,80,58
+38,10,Hygiène,Dove,2900,0,0,0,Pluvieux,39,70,42
+39,10,Boissons,Youki,900,0,0,0,Nuageux,92,117,96
+26,7,Boissons,Youki,1300,0,0,0,Ensoleillé,200,361,194
+17,5,Boissons,Coca-Cola,2600,0,0,0,Pluvieux,184,226,152
+18,5,Hygiène,Dettol,4600,1,25,0,Nuageux,126,291,119
+17,5,Vêtements,Dakar Mode,19500,0,0,0,Nuageux,29,55,29
+3,1,Électroménager,LG,93000,1,10,0,Nuageux,5,9,5
+36,9,Électroménager,Brandt,73100,1,30,0,Pluvieux,9,20,8
+9,3,Hygiène,Dettol,1800,0,0,0,Très chaud,71,169,62
+52,1,Boissons,Coca-Cola,1800,1,0,0,Pluvieux,65,148,66
+48,12,Hygiène,Colgate,2800,1,20,0,Ensoleillé,30,49,36
+33,9,Boissons,Youki,1300,0,0,0,Pluvieux,105,247,102
+51,1,Alimentaire,Kirène,5200,1,5,0,Ensoleillé,56,123,65
+47,12,Électroménager,Samsung,87300,0,0,0,Nuageux,5,11,5
+27,7,Hygiène,Dove,2300,0,0,0,Nuageux,59,86,71
+33,9,Boissons,Kirène,2100,1,25,0,Pluvieux,117,245,155
+19,5,Boissons,Gazelle,2300,0,0,0,Ensoleillé,236,321,200
+13,4,Électroménager,Brandt,149400,0,0,1,Ensoleillé,10,24,12
+38,10,Alimentaire,Daffé,2500,0,0,0,Ensoleillé,81,201,67
+24,6,Électroménager,Moulinex,146200,0,0,0,Ensoleillé,10,13,11
+7,2,Hygiène,Colgate,3000,0,0,0,Très chaud,55,134,47
+43,11,Alimentaire,Daffé,5300,0,0,0,Nuageux,62,136,50
+32,8,Vêtements,Afriq Style,20000,0,0,0,Ensoleillé,32,58,33
+38,10,Alimentaire,Patisen,3200,0,0,0,Ensoleillé,79,180,68
+11,3,Alimentaire,Kirène,6500,0,0,0,Ensoleillé,90,169,90
+24,6,Vêtements,Dakar Mode,5100,0,0,0,Nuageux,27,63,31
+2,1,Boissons,Coca-Cola,1800,0,0,1,Nuageux,96,215,94
+52,1,Vêtements,Kente,34300,0,0,0,Ensoleillé,23,46,20
+7,2,Alimentaire,Kirène,4000,1,25,0,Nuageux,75,137,90
+2,1,Boissons,Youki,1700,1,5,0,Ensoleillé,64,109,69
+4,1,Électroménager,Brandt,74600,0,0,0,Ensoleillé,5,9,6
+46,12,Alimentaire,Nestlé,3600,0,0,0,Ensoleillé,47,68,51
+9,3,Boissons,Coca-Cola,2400,1,5,0,Ensoleillé,158,379,149
+22,6,Alimentaire,Patisen,2900,0,0,0,Nuageux,116,243,116
+45,12,Électroménager,LG,101900,0,0,0,Nuageux,4,9,4
+41,11,Vêtements,Kantamanto,22500,0,0,0,Ensoleillé,14,23,17
+38,10,Électroménager,Brandt,156900,1,20,0,Nuageux,9,19,8
+18,5,Vêtements,Kantamanto,14300,0,0,0,Nuageux,42,102,35
+8,2,Hygiène,Dove,4500,0,0,0,Pluvieux,38,53,45
+40,10,Vêtements,Dakar Mode,26500,1,20,0,Ensoleillé,26,47,28
+13,4,Boissons,Rani,2600,0,0,0,Nuageux,116,212,150
+33,9,Hygiène,Nivea,1200,1,20,0,Nuageux,74,177,81
+47,12,Électroménager,Brandt,179200,1,10,0,Nuageux,5,11,5
+10,3,Électroménager,LG,192900,0,0,0,Nuageux,7,8,7
+21,6,Électroménager,LG,172800,0,0,0,Ensoleillé,12,21,14
+1,1,Boissons,Gazelle,2900,1,15,0,Ensoleillé,78,110,94
+27,7,Électroménager,LG,70900,0,0,0,Ensoleillé,10,23,13
+11,3,Vêtements,Wax & Co,9500,1,10,0,Nuageux,23,31,28
+1,1,Vêtements,Afriq Style,21600,0,0,1,Ensoleillé,26,52,23
+7,2,Électroménager,Brandt,46600,1,15,0,Nuageux,9,13,8
+12,3,Vêtements,Kente,4900,1,20,0,Ensoleillé,36,58,36
+40,10,Vêtements,Kantamanto,27500,1,15,0,Nuageux,29,46,28
+12,3,Vêtements,Wax & Co,31000,1,25,0,Pluvieux,41,87,34
+7,2,Électroménager,Hisense,183200,0,0,0,Ensoleillé,7,9,6
+44,11,Vêtements,Kente,15600,1,15,0,Nuageux,11,27,13
+20,5,Vêtements,Wax & Co,7000,0,0,0,Ensoleillé,39,90,33
+2,1,Électroménager,LG,105100,0,0,0,Ensoleillé,5,9,5
+42,11,Alimentaire,Patisen,7900,1,25,0,Ensoleillé,89,194,97
+27,7,Électroménager,Brandt,132300,0,0,0,Pluvieux,6,8,7
+7,2,Électroménager,LG,70600,0,0,0,Nuageux,6,14,6
+1,1,Alimentaire,Daffé,3900,1,25,0,Ensoleillé,65,89,64
+48,12,Alimentaire,Patisen,7600,0,0,0,Ensoleillé,51,77,55
+37,10,Vêtements,Dakar Mode,30400,0,0,0,Ensoleillé,22,53,28
+9,3,Électroménager,Samsung,167900,1,30,0,Ensoleillé,12,21,16
+41,11,Vêtements,Kente,34800,0,0,0,Ensoleillé,14,18,14
+40,10,Hygiène,Dove,800,0,0,0,Nuageux,32,70,34
+16,4,Électroménager,Samsung,135400,0,0,0,Pluvieux,9,14,8
+13,4,Vêtements,Wax & Co,7200,0,0,0,Très chaud,24,50,26
+25,7,Alimentaire,Daffé,7100,0,0,0,Nuageux,100,216,88
+10,3,Alimentaire,Patisen,4200,0,0,0,Nuageux,110,189,100
+30,8,Hygiène,Dettol,4400,0,0,0,Ensoleillé,72,149,62
+16,4,Boissons,Youki,600,1,20,0,Ensoleillé,211,257,227
+28,7,Boissons,Gazelle,1600,0,0,0,Ensoleillé,132,245,162
+26,7,Alimentaire,Nestlé,2400,0,0,0,Nuageux,101,177,88
+13,4,Boissons,Youki,800,1,10,0,Pluvieux,144,246,165
+33,9,Vêtements,Kente,17300,1,10,0,Nuageux,26,55,34
+50,1,Vêtements,Kantamanto,4400,0,0,0,Nuageux,19,29,17
+22,6,Vêtements,Kente,13000,0,0,0,Ensoleillé,55,118,46
+30,8,Hygiène,Dettol,4100,0,0,0,Pluvieux,71,148,59
+33,9,Alimentaire,Kirène,2700,1,0,0,Très chaud,71,93,72
+7,2,Boissons,Youki,1100,0,0,0,Nuageux,113,163,95
+12,3,Électroménager,LG,166800,1,25,0,Ensoleillé,8,13,11
+1,1,Hygiène,Palmolive,3900,0,0,0,Ensoleillé,42,90,42
+29,8,Électroménager,Moulinex,187900,0,0,0,Ensoleillé,10,20,10
+47,12,Vêtements,Dakar Mode,3200,0,0,0,Ensoleillé,16,38,16
+14,4,Électroménager,Hisense,187400,1,25,0,Nuageux,10,15,11
+15,4,Alimentaire,Daffé,5100,1,20,0,Nuageux,115,255,140
+21,6,Vêtements,Afriq Style,23300,1,25,0,Ensoleillé,44,75,44
+19,5,Boissons,Kirène,1200,1,30,0,Pluvieux,204,480,234
+17,5,Vêtements,Wax & Co,6800,1,20,0,Pluvieux,38,52,41
+23,6,Vêtements,Afriq Style,18200,1,15,0,Ensoleillé,54,105,53
+3,1,Boissons,Youki,2500,1,10,0,Ensoleillé,111,190,97
+28,7,Vêtements,Kente,29900,0,0,0,Ensoleillé,34,63,33
+5,2,Alimentaire,Kirène,4600,0,0,0,Très chaud,50,116,51
+33,9,Hygiène,Dove,1800,1,20,0,Ensoleillé,61,124,69
+10,3,Hygiène,Nivea,4100,0,0,0,Nuageux,70,146,63
+33,9,Hygiène,Dove,900,1,10,0,Nuageux,85,117,82
+1,1,Boissons,Youki,2900,0,0,0,Nuageux,66,142,86
+8,2,Électroménager,Moulinex,130500,0,0,0,Pluvieux,5,7,5
+24,6,Électroménager,Hisense,32700,1,0,0,Ensoleillé,10,18,11
+32,8,Boissons,Coca-Cola,800,0,0,0,Ensoleillé,186,315,189
+48,12,Boissons,Coca-Cola,2300,1,25,0,Nuageux,95,159,91
+6,2,Électroménager,Hisense,100300,0,0,0,Très chaud,5,9,6
+28,7,Boissons,Kirène,1100,1,5,0,Nuageux,164,252,167
+29,8,Boissons,Rani,800,1,20,0,Ensoleillé,185,307,191
+31,8,Alimentaire,Daffé,4900,1,30,0,Ensoleillé,139,344,158
+14,4,Électroménager,Brandt,186800,1,25,1,Ensoleillé,22,54,20
+17,5,Alimentaire,Patisen,1800,1,20,0,Ensoleillé,116,195,150
+37,10,Alimentaire,Mama,3500,0,0,0,Pluvieux,34,59,36
+45,12,Vêtements,Wax & Co,26000,0,0,0,Ensoleillé,12,23,15
+38,10,Hygiène,Dove,3300,0,0,0,Pluvieux,45,73,41
+48,12,Vêtements,Dakar Mode,30800,0,0,0,Pluvieux,12,14,12
+2,1,Vêtements,Wax & Co,24000,1,10,0,Ensoleillé,15,25,18
+30,8,Vêtements,Dakar Mode,6600,0,0,0,Nuageux,26,37,27
+36,9,Vêtements,Kantamanto,5600,1,10,0,Ensoleillé,28,52,36
+16,4,Électroménager,Moulinex,191100,0,0,0,Très chaud,9,22,8
+24,6,Boissons,Gazelle,1800,0,0,0,Ensoleillé,234,421,194
+20,5,Électroménager,Brandt,31100,1,25,0,Ensoleillé,10,24,14
+34,9,Hygiène,Dove,4300,1,30,0,Ensoleillé,108,167,94
+16,4,Hygiène,Nivea,3500,0,0,0,Très chaud,75,125,70
+50,1,Alimentaire,Mama,1700,0,0,0,Nuageux,36,77,46
+30,8,Hygiène,Palmolive,1000,0,0,0,Ensoleillé,73,126,74
+31,8,Boissons,Kirène,2600,1,30,0,Ensoleillé,244,420,218
+23,6,Alimentaire,Kirène,5000,0,0,0,Pluvieux,105,220,96
+15,4,Boissons,Gazelle,800,1,30,0,Ensoleillé,177,289,184
+16,4,Vêtements,Kantamanto,20500,0,0,0,Ensoleillé,31,66,35
+25,7,Alimentaire,Patisen,7400,0,0,0,Nuageux,108,267,91
+28,7,Alimentaire,Daffé,4200,0,0,0,Ensoleillé,117,169,110
+23,6,Alimentaire,Mama,2200,1,0,0,Ensoleillé,94,116,103
+4,1,Hygiène,Palmolive,4000,1,30,0,Nuageux,44,88,51
+1,1,Électroménager,Hisense,196400,1,25,0,Nuageux,6,14,7
+36,9,Alimentaire,Kirène,5000,1,0,0,Pluvieux,71,85,73
+41,11,Vêtements,Afriq Style,16700,1,25,0,Nuageux,28,59,24
+3,1,Boissons,Gazelle,2100,1,15,0,Pluvieux,84,199,81
+49,1,Hygiène,Nivea,4500,0,0,0,Ensoleillé,46,110,40
+13,4,Hygiène,Palmolive,800,1,10,0,Nuageux,76,174,93
+10,3,Boissons,Kirène,600,1,5,0,Ensoleillé,86,108,106
+15,4,Hygiène,Colgate,2900,0,0,0,Ensoleillé,76,169,83
+49,1,Électroménager,Hisense,181400,1,5,0,Ensoleillé,5,6,6
+38,10,Vêtements,Kantamanto,25800,0,0,0,Ensoleillé,25,31,22
+16,4,Alimentaire,Daffé,7800,0,0,0,Nuageux,70,112,72
+10,3,Boissons,Coca-Cola,1600,1,5,0,Nuageux,126,178,122
+39,10,Électroménager,Samsung,73900,0,0,0,Nuageux,5,8,5
+23,6,Alimentaire,Nestlé,1600,1,30,0,Nuageux,197,450,176
+52,1,Vêtements,Wax & Co,18700,1,30,0,Ensoleillé,24,49,26
+12,3,Électroménager,Samsung,91700,1,5,0,Ensoleillé,9,17,10
+8,2,Hygiène,Colgate,4600,0,0,0,Nuageux,43,74,38
+45,12,Vêtements,Kente,23200,1,30,0,Ensoleillé,25,51,21
+29,8,Électroménager,Moulinex,26000,0,0,0,Ensoleillé,11,19,10
+38,10,Boissons,Coca-Cola,900,0,0,0,Nuageux,73,181,98
+3,1,Vêtements,Wax & Co,28100,0,0,1,Pluvieux,17,22,17
+44,11,Alimentaire,Daffé,3000,0,0,0,Ensoleillé,57,108,70
+7,2,Électroménager,Hisense,70100,0,0,0,Nuageux,6,13,6
+16,4,Électroménager,Hisense,67400,0,0,1,Ensoleillé,13,31,12
+4,1,Vêtements,Dakar Mode,27500,0,0,0,Pluvieux,10,18,12
+25,7,Hygiène,Nivea,1400,0,0,0,Pluvieux,59,121,61
+24,6,Alimentaire,Daffé,7900,0,0,0,Ensoleillé,118,202,98
+42,11,Alimentaire,Nestlé,3800,1,0,0,Ensoleillé,54,72,57
+23,6,Boissons,Youki,1900,1,0,0,Ensoleillé,127,201,157
+2,1,Hygiène,Palmolive,2000,0,0,0,Nuageux,55,84,48
+8,2,Électroménager,Hisense,62300,0,0,0,Très chaud,6,14,6
+18,5,Alimentaire,Daffé,6000,0,0,0,Nuageux,119,225,124
+28,7,Boissons,Coca-Cola,1400,0,0,0,Pluvieux,153,307,167
+38,10,Vêtements,Dakar Mode,14200,0,0,0,Très chaud,18,31,17
+28,7,Boissons,Gazelle,1300,0,0,0,Pluvieux,123,214,145
+49,1,Hygiène,Dove,2000,1,20,1,Ensoleillé,55,121,64
+47,12,Hygiène,Palmolive,4700,0,0,0,Pluvieux,25,49,29
+18,5,Alimentaire,Daffé,1500,0,0,0,Ensoleillé,91,163,86
+42,11,Hygiène,Dettol,2300,1,0,0,Très chaud,33,78,32
+24,6,Hygiène,Colgate,2100,1,20,0,Très chaud,92,138,114
+35,9,Alimentaire,Kirène,6500,0,0,0,Nuageux,90,122,86
+41,11,Vêtements,Afriq Style,22300,0,0,0,Ensoleillé,10,14,14
+3,1,Alimentaire,Patisen,7400,1,10,0,Ensoleillé,53,108,70
+20,5,Électroménager,LG,75600,1,10,0,Pluvieux,10,23,14
+41,11,Boissons,Kirène,700,0,0,0,Ensoleillé,113,190,94
+50,1,Vêtements,Kente,15800,1,5,0,Ensoleillé,23,55,21
+40,10,Vêtements,Afriq Style,15800,1,10,0,Ensoleillé,29,46,25
+3,1,Hygiène,Dove,4300,1,15,0,Ensoleillé,38,50,51
+42,11,Alimentaire,Daffé,6300,1,25,0,Nuageux,73,122,84
+15,4,Électroménager,Samsung,106100,1,30,0,Très chaud,17,21,16
+48,12,Vêtements,Wax & Co,25900,1,5,0,Ensoleillé,17,27,15
+35,9,Alimentaire,Mama,6500,0,0,0,Très chaud,89,132,82
+8,2,Hygiène,Palmolive,2100,0,0,0,Nuageux,45,94,54
+31,8,Boissons,Gazelle,1700,0,0,0,Nuageux,168,276,151
+16,4,Boissons,Gazelle,2900,1,30,0,Très chaud,163,253,207
+24,6,Boissons,Rani,2100,0,0,0,Nuageux,158,354,195
+47,12,Hygiène,Dove,2200,1,10,0,Très chaud,25,49,33
+43,11,Électroménager,Samsung,179600,0,0,0,Nuageux,3,5,4
+41,11,Boissons,Coca-Cola,2200,0,0,0,Ensoleillé,81,181,84
+49,1,Boissons,Gazelle,2600,1,30,1,Ensoleillé,214,499,178
+14,4,Boissons,Youki,2600,0,0,0,Ensoleillé,100,217,120
+17,5,Vêtements,Kente,11600,0,0,0,Nuageux,40,49,33
+46,12,Vêtements,Kente,34800,1,5,0,Pluvieux,10,14,12
+32,8,Vêtements,Kantamanto,30800,0,0,0,Ensoleillé,36,78,30
+52,1,Boissons,Kirène,2300,0,0,1,Ensoleillé,117,146,111
+51,1,Boissons,Rani,1000,0,0,0,Très chaud,48,119,63
+45,12,Hygiène,Dettol,2300,1,10,1,Ensoleillé,58,122,57
+28,7,Hygiène,Nivea,1100,0,0,0,Ensoleillé,78,107,92
+38,10,Boissons,Rani,1300,0,0,0,Ensoleillé,85,206,100
+26,7,Électroménager,Moulinex,191100,0,0,0,Nuageux,10,19,9
+30,8,Vêtements,Kente,7500,0,0,0,Nuageux,41,49,35
+16,4,Vêtements,Dakar Mode,13700,1,25,0,Ensoleillé,45,103,43
+17,5,Vêtements,Kantamanto,3900,1,20,0,Nuageux,44,82,40
+16,4,Hygiène,Dove,1800,0,0,0,Très chaud,47,94,59
+1,1,Hygiène,Dove,2600,1,0,0,Ensoleillé,37,53,44
+31,8,Hygiène,Palmolive,4300,1,10,0,Ensoleillé,140,205,113
+32,8,Alimentaire,Nestlé,2600,1,20,1,Pluvieux,139,168,135
+3,1,Électroménager,LG,30400,1,10,0,Pluvieux,3,4,4
+39,10,Boissons,Gazelle,2800,0,0,0,Ensoleillé,103,138,110
+41,11,Vêtements,Dakar Mode,25600,1,30,0,Nuageux,35,48,29
+20,5,Boissons,Coca-Cola,1400,1,0,0,Nuageux,195,323,173
+25,7,Hygiène,Palmolive,1300,1,5,0,Ensoleillé,79,165,102
+35,9,Électroménager,Moulinex,81600,0,0,0,Nuageux,6,7,7
+43,11,Vêtements,Wax & Co,4400,1,5,0,Ensoleillé,22,54,19
+37,10,Vêtements,Kente,20200,1,20,0,Nuageux,24,50,27
+45,12,Hygiène,Colgate,4000,0,0,0,Nuageux,32,62,40
+1,1,Vêtements,Kente,20900,0,0,0,Pluvieux,15,19,15
+48,12,Boissons,Kirène,1400,0,0,0,Ensoleillé,80,196,89
+49,1,Hygiène,Dettol,4800,1,0,0,Très chaud,51,121,42
+29,8,Électroménager,Brandt,187100,1,30,0,Très chaud,9,16,12
+17,5,Vêtements,Afriq Style,17900,0,0,0,Ensoleillé,45,63,37
+18,5,Vêtements,Wax & Co,32100,1,10,0,Ensoleillé,28,49,37
+42,11,Alimentaire,Daffé,4500,0,0,0,Ensoleillé,46,103,48
+21,6,Vêtements,Kantamanto,6400,1,0,0,Nuageux,40,92,37
+17,5,Alimentaire,Daffé,3000,1,15,0,Pluvieux,106,144,121
+10,3,Alimentaire,Mama,3600,0,0,0,Très chaud,82,204,78
+51,1,Alimentaire,Nestlé,2500,0,0,0,Pluvieux,41,101,48
+47,12,Électroménager,Hisense,165300,0,0,0,Ensoleillé,6,7,5
+8,2,Hygiène,Dettol,3800,1,15,0,Ensoleillé,79,158,72
+49,1,Alimentaire,Kirène,3500,0,0,0,Très chaud,40,72,47
+3,1,Électroménager,Moulinex,186900,0,0,0,Ensoleillé,4,9,6
+26,7,Boissons,Rani,1300,0,0,0,Nuageux,175,255,195
+40,10,Boissons,Kirène,1000,1,30,0,Nuageux,135,225,121
+4,1,Alimentaire,Nestlé,2000,0,0,0,Ensoleillé,49,102,46
+31,8,Alimentaire,Mama,4000,1,20,1,Pluvieux,134,323,130
+38,10,Électroménager,LG,199000,1,25,0,Ensoleillé,12,27,11
+5,2,Électroménager,Hisense,163700,1,10,0,Ensoleillé,8,18,7
+45,12,Alimentaire,Daffé,5100,0,0,0,Nuageux,39,82,44
+20,5,Alimentaire,Daffé,2900,1,25,0,Ensoleillé,182,422,159
+19,5,Alimentaire,Nestlé,7000,0,0,0,Ensoleillé,176,393,144
+36,9,Boissons,Kirène,1200,0,0,0,Pluvieux,126,154,115
+26,7,Alimentaire,Daffé,1600,0,0,0,Nuageux,94,221,105
+16,4,Vêtements,Afriq Style,29900,1,15,0,Très chaud,34,41,41
+1,1,Électroménager,Samsung,50300,0,0,0,Ensoleillé,4,9,5
+42,11,Électroménager,LG,45700,1,30,0,Pluvieux,6,14,6
+33,9,Hygiène,Palmolive,1300,0,0,0,Ensoleillé,59,143,63
+26,7,Vêtements,Kantamanto,25200,0,0,0,Nuageux,36,84,36
+2,1,Boissons,Gazelle,1900,1,0,0,Nuageux,82,188,101
+6,2,Alimentaire,Nestlé,5100,0,0,0,Très chaud,57,96,60
+46,12,Boissons,Rani,2700,0,0,0,Pluvieux,51,74,59
+17,5,Alimentaire,Nestlé,4200,1,10,0,Ensoleillé,216,473,176
+32,8,Alimentaire,Kirène,4500,0,0,1,Pluvieux,89,114,103
+43,11,Alimentaire,Daffé,7600,1,5,0,Pluvieux,46,96,43
+39,10,Boissons,Rani,800,0,0,0,Nuageux,98,159,83
+28,7,Vêtements,Dakar Mode,27700,1,15,0,Ensoleillé,46,85,44
+5,2,Hygiène,Palmolive,2300,1,5,0,Ensoleillé,70,87,65
+3,1,Vêtements,Dakar Mode,6800,0,0,0,Pluvieux,17,36,15
+7,2,Électroménager,LG,108600,0,0,0,Ensoleillé,8,14,9
+6,2,Électroménager,Moulinex,174000,0,0,0,Ensoleillé,9,16,8
+12,3,Boissons,Youki,700,0,0,0,Ensoleillé,106,170,112
+17,5,Électroménager,Hisense,161100,0,0,0,Ensoleillé,10,21,12
+20,5,Vêtements,Kente,21600,1,30,0,Nuageux,45,66,49
+39,10,Boissons,Kirène,600,0,0,0,Nuageux,110,200,108
+8,2,Alimentaire,Mama,2500,0,0,0,Pluvieux,63,120,54
+12,3,Hygiène,Nivea,1800,1,25,0,Ensoleillé,65,112,79
+42,11,Boissons,Coca-Cola,2100,0,0,0,Ensoleillé,93,140,97
+30,8,Boissons,Rani,500,0,0,0,Ensoleillé,124,304,151
+5,2,Hygiène,Palmolive,1100,0,0,0,Ensoleillé,45,65,45
+13,4,Hygiène,Dettol,4900,0,0,0,Ensoleillé,63,107,82
+32,8,Alimentaire,Mama,4100,0,0,0,Ensoleillé,119,168,107
+46,12,Hygiène,Palmolive,4800,1,0,1,Nuageux,54,109,51
+36,9,Vêtements,Afriq Style,6200,0,0,0,Nuageux,22,54,24
+21,6,Électroménager,Samsung,110500,0,0,0,Ensoleillé,10,14,10
+28,7,Hygiène,Palmolive,3100,0,0,0,Nuageux,65,82,76
+6,2,Électroménager,Moulinex,150000,0,0,0,Ensoleillé,7,16,8
+40,10,Alimentaire,Kirène,3900,1,15,0,Ensoleillé,89,133,92
+30,8,Électroménager,Brandt,171200,0,0,0,Pluvieux,8,16,7
+28,7,Vêtements,Wax & Co,9700,1,15,0,Ensoleillé,36,55,43
+17,5,Vêtements,Kente,29900,1,5,0,Nuageux,37,69,38
+43,11,Hygiène,Palmolive,3100,1,10,0,Nuageux,43,73,41
+10,3,Boissons,Youki,1500,1,0,0,Pluvieux,91,149,86
+34,9,Alimentaire,Daffé,2600,1,30,0,Pluvieux,113,171,128
+11,3,Hygiène,Dettol,1700,0,0,0,Nuageux,60,85,53
+8,2,Hygiène,Dove,4000,0,0,0,Nuageux,42,96,54
+36,9,Boissons,Kirène,900,1,5,0,Très chaud,116,251,118
+48,12,Hygiène,Dettol,4400,1,10,0,Nuageux,38,65,44
+32,8,Hygiène,Dettol,3000,0,0,0,Très chaud,67,150,68
+12,3,Alimentaire,Daffé,6900,1,20,0,Nuageux,119,284,101
+45,12,Vêtements,Kente,17600,1,5,0,Très chaud,12,26,13
+23,6,Vêtements,Kente,11300,1,20,0,Pluvieux,43,93,44
+46,12,Vêtements,Kantamanto,29100,1,5,0,Ensoleillé,21,49,18
+3,1,Alimentaire,Mama,6900,0,0,0,Nuageux,73,127,61
+36,9,Alimentaire,Patisen,2100,0,0,0,Ensoleillé,46,76,45
+9,3,Hygiène,Dove,4400,1,15,0,Ensoleillé,70,92,72
+30,8,Vêtements,Wax & Co,19600,0,0,1,Très chaud,47,104,41
+9,3,Vêtements,Dakar Mode,31300,0,0,0,Ensoleillé,28,67,28
+52,1,Vêtements,Wax & Co,34300,1,15,0,Ensoleillé,21,47,21
+16,4,Vêtements,Dakar Mode,29800,1,5,0,Ensoleillé,36,44,35
+52,1,Boissons,Coca-Cola,2700,0,0,0,Pluvieux,63,130,61
+9,3,Électroménager,Brandt,99700,0,0,0,Très chaud,5,8,7
+46,12,Vêtements,Kantamanto,34900,1,0,1,Nuageux,22,46,18
+33,9,Alimentaire,Patisen,6000,0,0,0,Ensoleillé,79,122,88
+34,9,Électroménager,Samsung,71600,1,10,0,Ensoleillé,7,13,9
+15,4,Hygiène,Palmolive,2300,1,15,1,Ensoleillé,109,166,127
+12,3,Hygiène,Dettol,3700,1,10,0,Ensoleillé,101,248,86
+10,3,Vêtements,Dakar Mode,30700,0,0,0,Pluvieux,18,37,17
+47,12,Électroménager,Samsung,104300,1,20,0,Ensoleillé,5,12,5
+35,9,Vêtements,Kente,10100,0,0,0,Très chaud,21,50,20
+32,8,Électroménager,Brandt,167100,0,0,0,Très chaud,7,15,9
+48,12,Alimentaire,Mama,7200,1,10,0,Ensoleillé,57,93,69
+35,9,Alimentaire,Kirène,5800,1,30,0,Ensoleillé,95,222,109
+27,7,Vêtements,Dakar Mode,27500,0,0,0,Nuageux,26,35,32
+48,12,Alimentaire,Nestlé,4100,1,5,1,Nuageux,46,108,55
+5,2,Boissons,Youki,1500,0,0,0,Ensoleillé,114,170,104
+44,11,Hygiène,Colgate,2300,1,5,0,Très chaud,34,80,40
+51,1,Hygiène,Palmolive,2100,0,0,0,Nuageux,39,63,34
+38,10,Vêtements,Wax & Co,24400,1,30,0,Pluvieux,24,35,27
+43,11,Électroménager,Samsung,186300,1,15,0,Nuageux,6,13,6
+10,3,Boissons,Youki,800,1,0,0,Très chaud,148,247,137
+4,1,Boissons,Youki,900,1,20,0,Ensoleillé,137,220,120
+36,9,Vêtements,Kente,23500,0,0,0,Nuageux,22,40,19
+22,6,Électroménager,Brandt,169100,1,20,0,Nuageux,14,26,14
+47,12,Vêtements,Dakar Mode,18300,1,0,1,Ensoleillé,18,43,22
+28,7,Alimentaire,Daffé,6900,0,0,0,Nuageux,68,169,90
+39,10,Vêtements,Dakar Mode,12200,0,0,0,Ensoleillé,19,29,23
+45,12,Électroménager,Brandt,143400,1,0,0,Pluvieux,3,6,4
+35,9,Boissons,Rani,2500,1,20,0,Nuageux,195,238,180
+49,1,Boissons,Rani,500,0,0,0,Ensoleillé,87,164,98
+23,6,Électroménager,Samsung,46700,0,0,0,Nuageux,8,15,10
+30,8,Hygiène,Colgate,2200,0,0,0,Ensoleillé,71,118,72
+43,11,Alimentaire,Patisen,1800,0,0,0,Ensoleillé,38,71,45
+6,2,Boissons,Kirène,900,0,0,0,Nuageux,81,131,99
+36,9,Boissons,Rani,2900,0,0,0,Ensoleillé,103,162,134
+21,6,Vêtements,Afriq Style,5600,1,15,0,Nuageux,54,111,46
+3,1,Alimentaire,Nestlé,6600,0,0,0,Nuageux,55,109,48
+47,12,Alimentaire,Mama,2200,1,10,0,Nuageux,52,74,64
+38,10,Hygiène,Colgate,1100,0,0,0,Ensoleillé,49,101,52
+2,1,Hygiène,Colgate,2200,1,0,0,Très chaud,39,70,37
+15,4,Boissons,Youki,1400,0,0,0,Ensoleillé,164,271,148
+7,2,Vêtements,Wax & Co,7100,0,0,0,Ensoleillé,20,26,20
+31,8,Électroménager,LG,88400,1,0,0,Nuageux,9,21,9
+32,8,Électroménager,Samsung,50200,0,0,0,Ensoleillé,12,20,11
+26,7,Boissons,Coca-Cola,800,0,0,0,Ensoleillé,156,301,187
+42,11,Hygiène,Palmolive,1900,1,20,0,Pluvieux,48,105,43
+51,1,Vêtements,Dakar Mode,32700,1,5,1,Nuageux,19,37,19
+19,5,Vêtements,Dakar Mode,22300,1,30,0,Ensoleillé,54,94,52
+39,10,Électroménager,Brandt,102400,0,0,0,Très chaud,6,10,6
+28,7,Électroménager,Brandt,182800,1,30,0,Nuageux,14,23,18
+27,7,Hygiène,Dettol,4200,1,5,0,Ensoleillé,113,153,101
+42,11,Alimentaire,Kirène,5200,0,0,0,Ensoleillé,44,71,39
+46,12,Hygiène,Dettol,4300,0,0,0,Ensoleillé,32,46,33
+52,1,Vêtements,Dakar Mode,9400,1,25,0,Ensoleillé,27,34,27
+44,11,Boissons,Coca-Cola,1000,0,0,0,Ensoleillé,96,212,92
+7,2,Électroménager,Moulinex,95600,1,0,0,Nuageux,4,8,5
+29,8,Électroménager,Hisense,63400,1,20,1,Nuageux,14,31,16
+50,1,Électroménager,Moulinex,149400,0,0,0,Ensoleillé,5,10,6
+37,10,Alimentaire,Patisen,4400,0,0,0,Pluvieux,54,113,64
+5,2,Alimentaire,Daffé,5800,1,25,0,Ensoleillé,128,273,113
+37,10,Boissons,Youki,1900,0,0,0,Ensoleillé,115,171,112
+30,8,Vêtements,Wax & Co,30700,1,15,1,Ensoleillé,45,96,59
+1,1,Boissons,Coca-Cola,1700,1,15,0,Ensoleillé,101,247,103
+16,4,Boissons,Gazelle,2900,1,25,0,Ensoleillé,293,434,260
+44,11,Électroménager,Samsung,50000,1,25,0,Ensoleillé,6,8,7
+17,5,Hygiène,Dettol,3800,1,5,0,Ensoleillé,108,238,96
+25,7,Vêtements,Afriq Style,7600,0,0,0,Nuageux,24,35,30
+41,11,Boissons,Youki,900,1,25,0,Nuageux,78,100,96
+12,3,Hygiène,Dove,1300,0,0,0,Ensoleillé,84,166,68
+46,12,Hygiène,Colgate,2200,0,0,0,Nuageux,33,79,35
+17,5,Électroménager,Moulinex,116400,0,0,0,Ensoleillé,11,19,12
+24,6,Vêtements,Kente,9200,0,0,0,Ensoleillé,39,73,43
+21,6,Alimentaire,Nestlé,5200,0,0,0,Ensoleillé,102,184,131
+40,10,Hygiène,Nivea,4000,0,0,0,Ensoleillé,39,91,44
+11,3,Alimentaire,Patisen,4800,0,0,0,Ensoleillé,77,154,69
+15,4,Boissons,Coca-Cola,1800,1,5,0,Nuageux,204,491,174
+52,1,Électroménager,Moulinex,44900,0,0,0,Pluvieux,5,11,5
+17,5,Électroménager,LG,122000,1,0,0,Nuageux,13,24,12
+44,11,Boissons,Kirène,2800,1,20,0,Ensoleillé,176,380,145
+13,4,Hygiène,Dove,3100,0,0,0,Nuageux,72,164,76
+47,12,Boissons,Coca-Cola,2300,1,10,0,Nuageux,70,166,72
+48,12,Boissons,Kirène,1200,0,0,0,Très chaud,71,133,77
+45,12,Hygiène,Nivea,2700,1,0,1,Ensoleillé,45,84,42
+2,1,Vêtements,Wax & Co,31700,0,0,0,Ensoleillé,15,36,14
+17,5,Alimentaire,Mama,2500,1,10,0,Pluvieux,154,341,129
+18,5,Boissons,Youki,1800,1,0,0,Nuageux,147,191,181
+18,5,Électroménager,LG,107000,1,30,0,Nuageux,15,24,14
+45,12,Boissons,Youki,2500,1,20,0,Pluvieux,79,155,80
+33,9,Boissons,Gazelle,2500,1,15,0,Pluvieux,119,221,147
+12,3,Alimentaire,Kirène,2300,0,0,0,Ensoleillé,57,95,74
+49,1,Alimentaire,Nestlé,2400,1,10,0,Ensoleillé,83,126,72
+6,2,Électroménager,Hisense,188500,0,0,0,Ensoleillé,5,12,5
+20,5,Électroménager,Hisense,150900,0,0,0,Nuageux,8,14,10
+2,1,Électroménager,LG,29900,1,25,0,Ensoleillé,5,8,6
+2,1,Boissons,Kirène,1600,1,10,0,Très chaud,74,169,72
+33,9,Électroménager,Samsung,47400,0,0,0,Ensoleillé,5,7,7
+35,9,Alimentaire,Kirène,2300,1,20,0,Nuageux,131,160,127
+45,12,Alimentaire,Nestlé,4800,1,15,0,Pluvieux,60,109,70
+3,1,Électroménager,Samsung,59800,0,0,0,Pluvieux,3,4,4
+16,4,Alimentaire,Mama,2500,1,25,1,Nuageux,173,386,214
+24,6,Boissons,Coca-Cola,1400,0,0,0,Pluvieux,166,202,149
+1,1,Vêtements,Wax & Co,26700,1,30,0,Nuageux,21,34,24
+3,1,Vêtements,Kantamanto,24500,0,0,1,Ensoleillé,17,27,21
+21,6,Boissons,Kirène,2000,0,0,0,Ensoleillé,169,368,215
+41,11,Vêtements,Dakar Mode,20000,1,25,0,Ensoleillé,17,35,23
+46,12,Hygiène,Dove,1600,0,0,0,Ensoleillé,25,42,31
