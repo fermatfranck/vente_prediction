@@ -866,11 +866,11 @@ elif page == "💡 Recommandations":
 # ══════════════════════════════════════════════════════════════════════════════
 # PAGE 6 — GROUPE
 # ══════════════════════════════════════════════════════════════════════════════
-elif page == "👥 Groupe 1":
+elif page == "👥 Membres du groupe":
     st.markdown(f"""
     <div class="hero-banner">
       <div class="hero-badge">Projet 3 · Machine Learning</div>
-      <div class="hero-title"><span>Groupe 1</span> · Prédiction des Ventes</div>
+      <div class="hero-title"><span>Membres du groupe</span> · Prédiction des Ventes</div>
       <div class="hero-sub">Commerce / Marketing · Niveau Intermédiaire · Python · scikit-learn</div>
     </div>""", unsafe_allow_html=True)
 
