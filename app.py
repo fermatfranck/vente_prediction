@@ -269,7 +269,7 @@ with st.sidebar:
         "🤖 Modélisation ML",
         "🎯 Prédire les ventes",
         "💡 Recommandations",
-        "👥 Groupe 1"
+        "👥 Membres du groupe"
     ], label_visibility="collapsed")
     st.markdown("---")
     st.markdown(f'<p style="font-size:11px;font-weight:600;color:{MUTED};text-transform:uppercase;letter-spacing:.05em">Filtres</p>', unsafe_allow_html=True)
