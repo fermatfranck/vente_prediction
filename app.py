@@ -44,6 +44,18 @@ st.markdown(f"""
 header[data-testid="stHeader"], #MainMenu, footer {{ visibility: hidden; height:0; }}
 .stDeployButton {{ display: none; }}
 
+/* Bouton collapse sidebar (keyboard_double_arrow) */
+button[data-testid="collapsedControl"],
+button[kind="header"],
+[data-testid="stSidebarCollapseButton"],
+section[data-testid="stSidebar"] button[kind="header"],
+div[data-testid="stSidebarCollapsedControl"] {{
+  display: none !important;
+}}
+/* Icône material icons dans sidebar */
+.material-symbols-rounded,
+span.material-symbols-rounded {{ display: none !important; }}
+
 /* Sidebar */
 section[data-testid="stSidebar"] {{
   background: #FFFFFF !important;
