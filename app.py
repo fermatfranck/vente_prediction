@@ -268,7 +268,8 @@ with st.sidebar:
         "📊 Analyse EDA",
         "🤖 Modélisation ML",
         "🎯 Prédire les ventes",
-        "💡 Recommandations"
+        "💡 Recommandations",
+        "👥 Groupe 1"
     ], label_visibility="collapsed")
     st.markdown("---")
     st.markdown(f'<p style="font-size:11px;font-weight:600;color:{MUTED};text-transform:uppercase;letter-spacing:.05em">Filtres</p>', unsafe_allow_html=True)
@@ -860,4 +861,57 @@ elif page == "💡 Recommandations":
                 background:linear-gradient(90deg,#FDF0E6,#F0E6FA);
                 padding:16px 0; text-align:center; color:{MUTED}; font-size:12px; margin-top:2rem; border-radius:0 0 10px 10px;">
       Machine Learning · Commerce / Retail · Python · scikit-learn · Streamlit · 2 000 observations · 17 features
+    </div>""", unsafe_allow_html=True)
+
+# ══════════════════════════════════════════════════════════════════════════════
+# PAGE 6 — GROUPE
+# ══════════════════════════════════════════════════════════════════════════════
+elif page == "👥 Groupe 1":
+    st.markdown(f"""
+    <div class="hero-banner">
+      <div class="hero-badge">Projet 3 · Machine Learning</div>
+      <div class="hero-title"><span>Groupe 1</span> · Prédiction des Ventes</div>
+      <div class="hero-sub">Commerce / Marketing · Niveau Intermédiaire · Python · scikit-learn</div>
+    </div>""", unsafe_allow_html=True)
+
+    membres = [
+        {"initiale": "D", "nom": "DISSI",     "prenom": "",         "color": ORANGE},
+        {"initiale": "C", "nom": "COULIBALY", "prenom": "Nabatrou", "color": VIOLET},
+        {"initiale": "W", "nom": "WADE",      "prenom": "",         "color": "#6B7280"},
+        {"initiale": "K", "nom": "KOFFI",     "prenom": "Grace Esther", "color": AMBER},
+        {"initiale": "K", "nom": "KOUASSI",   "prenom": "Moiye",    "color": PURPLE2},
+    ]
+
+    st.markdown("<br>", unsafe_allow_html=True)
+    section("Membres du groupe", "Équipe")
+
+    cols = st.columns(min(len(membres), 3))
+    for i, m in enumerate(membres):
+        col = cols[i % 3]
+        sub = f'<div style="font-size:12px;color:{MUTED};margin-top:2px">{m["prenom"]}</div>' if m["prenom"] else ""
+        col.markdown(f"""
+        <div style="background:#FFFFFF;border:1px solid {BORDER};border-radius:12px;
+                    padding:20px 18px;margin-bottom:14px;display:flex;align-items:center;gap:14px;">
+          <div style="width:44px;height:44px;border-radius:50%;background:{m['color']};
+                      display:flex;align-items:center;justify-content:center;
+                      font-size:18px;font-weight:700;color:white;flex-shrink:0;">
+            {m['initiale']}
+          </div>
+          <div>
+            <div style="font-weight:700;color:{TEXT};font-size:15px">{m['nom']}</div>
+            {sub}
+          </div>
+        </div>""", unsafe_allow_html=True)
+
+    st.markdown("<br>", unsafe_allow_html=True)
+    st.markdown(f"""
+    <div style="background:linear-gradient(135deg,#FDF0E6,#F0E6FA);border:1px solid {BORDER};
+                border-radius:12px;padding:24px 28px;text-align:center;">
+      <div style="font-size:11px;font-weight:600;color:{VIOLET};letter-spacing:.1em;
+                  text-transform:uppercase;margin-bottom:10px;font-family:'IBM Plex Mono',monospace">
+        Stack technique
+      </div>
+      <div style="display:flex;justify-content:center;gap:12px;flex-wrap:wrap;">
+        {"".join([f'<span style="background:rgba(194,96,26,0.12);color:{ORANGE};padding:6px 16px;border-radius:20px;font-size:13px;font-weight:600">{t}</span>' for t in ["Python","scikit-learn","Streamlit","Plotly","Pandas","NumPy"]])}
+      </div>
     </div>""", unsafe_allow_html=True)
