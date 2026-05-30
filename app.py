@@ -167,11 +167,11 @@ def light_fig(fig, height=360):
     fig.update_layout(
         paper_bgcolor=SURFACE, plot_bgcolor="#FDFAF7",
         font=dict(family="IBM Plex Sans", color=MUTED),
-        margin=dict(l=10,r=10,t=40,b=10), height=height,
+        margin=dict(l=10,r=10,t=10,b=10), height=height,
         legend=dict(bgcolor="rgba(0,0,0,0)", font=dict(size=11, color=MUTED)),
         xaxis=dict(showgrid=True, gridcolor="#EDE0D4", linecolor=BORDER, tickfont=dict(color=MUTED)),
         yaxis=dict(showgrid=True, gridcolor="#EDE0D4", linecolor=BORDER, tickfont=dict(color=MUTED)),
-        title=dict(font=dict(color=TEXT, size=13, family="IBM Plex Sans"))
+        title=dict(text="", font=dict(color=TEXT, size=13, family="IBM Plex Sans"))
     )
     return fig
 
