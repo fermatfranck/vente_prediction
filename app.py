@@ -282,6 +282,11 @@ with st.sidebar:
 
 df_f = df[df['Catégorie'].isin(cats) & df['Météo'].isin(meteos) & df['Semaine'].between(*sem_rng)]
 
+# Garde : si filtres trop restrictifs
+if df_f.empty:
+    st.warning("⚠️ Aucune donnée avec ces filtres. Veuillez élargir la sélection.")
+    st.stop()
+
 # ══════════════════════════════════════════════════════════════════════════════
 # PAGE 1 — TABLEAU DE BORD
 # ══════════════════════════════════════════════════════════════════════════════
